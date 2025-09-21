@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FPS_Game/Content/FrameWork/FunkyFish_Character.uasset",
+				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FPS_Game/Content/FrameWork/GM.uasset",
+				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FPS_Game/Content/FrameWork/PC.uasset",
+				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FPS_Game/Content/Levels/Game.umap",
+				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FPS_Game/Content/_GENERATED/TayzorBlayzor/Extrude_A27B2884.uasset",
+				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FPS_Game/Content/Blueprints/FrameWork/GM.uasset",
+				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FPS_Game/Content/Blueprints/FrameWork/FunkyFish_Character.uasset",
+				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FPS_Game/Content/Blueprints/FrameWork/PC.uasset",
+				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FPS_Game/Content/Blueprints/controls/AttackButton.uasset",
+				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FPS_Game/Content/Blueprints/controls/Verti.uasset",
+				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FPS_Game/Content/Blueprints/controls/IMC.uasset",
+				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FPS_Game/Content/Blueprints/controls/Hori.uasset",
+				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FPS_Game/Content/Blueprints/controls/LeftStick.uasset"
+			]
+		}
+	]
+}
