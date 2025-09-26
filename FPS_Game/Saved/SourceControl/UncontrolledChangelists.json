@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FunkyFishGameGithub/FunkyFishGameRepository/FPS_Game/Content/Blueprints/FrameWork/FunkyFish_Character.uasset",
+				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FunkyFishGameGithub/FunkyFishGameRepository/FPS_Game/Content/Blueprints/controls/IA_WASD.uasset",
+				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FunkyFishGameGithub/FunkyFishGameRepository/FPS_Game/Content/Blueprints/controls/IA_Mouse.uasset",
+				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FunkyFishGameGithub/FunkyFishGameRepository/FPS_Game/Content/Levels/Game.umap",
 				"C:/Users/codym/OneDrive/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Levels/TestingZone.umap",
 				"C:/Users/codym/OneDrive/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Meshes/BasicPotionTemplate.uasset",
 				"C:/Users/codym/OneDrive/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Materials/M_Glass.uasset",
@@ -21,7 +25,6 @@
 				"C:/Users/codym/OneDrive/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Materials/M_PotionLiquid_Orange.uasset",
 				"C:/Users/codym/OneDrive/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Materials/MI_PotionLiquid_Orange.uasset",
 				"C:/Users/codym/OneDrive/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Potions/BP_Potion_Fire.uasset",
-				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FunkyFishGameGithub/FunkyFishGameRepository/FPS_Game/Content/Blueprints/FrameWork/FunkyFish_Character.uasset",
 				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FPS_Game/Content/FrameWork/FunkyFish_Character.uasset",
 				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FPS_Game/Content/FrameWork/GM.uasset",
 				"C:/Users/TayzorBlayzor/OneDrive/Documents/Unreal Projects/FPS_Game/Content/FrameWork/PC.uasset",
