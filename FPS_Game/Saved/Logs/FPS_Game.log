@@ -3960,3 +3960,28 @@ Sampler Limit: 32
 [2025.10.28-02.30.41:300][997]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1745.147461
 [2025.10.28-02.30.42:300][  1]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.28-02.30.42:300][  1]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1745.814697, Update Interval: 324.850006
+[2025.10.28-02.32.39:175][679]LogFab: Display: Logging in using persist
+[2025.10.28-02.32.41:217][679]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from E:/program file (x86)/UE_5.6/Engine/Binaries/ThirdParty/CEF3/Win64/
+[2025.10.28-02.32.41:634][679]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.10.28-02.32.45:985][686]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: dce...171 Access[Expires: 2025.10.28-04.32.46 Remaining: 7200.84] Refresh[Expires: 2026-04-26T02:32:46.841Z Remaining: 15552000.84] State: Valid
+[2025.10.28-02.32.46:001][687]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2025.10.28-02.32.46:830][708]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2025.10.28-02.32.46:830][708]LogFab: Display: User logged in
+[2025.10.28-02.32.46:830][708]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2025.10.28-02.32.47:690][796]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-95E1aH8C9EaIgnd_XBBgzA-U7VhiM_W0k2Cy7UTKzwceg]
+[2025.10.28-02.33.11:009][438]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.10.28-02.33.11:010][438]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/.
+[2025.10.28-02.33.12:894][554]LogFab: Display: Logging in using persist
+[2025.10.28-02.33.13:244][579]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: dce...171 Access[Expires: 2025.10.28-04.33.14 Remaining: 7200.20] Refresh[Expires: 2026-04-26T02:32:46.841Z Remaining: 15551972.84] State: Valid
+[2025.10.28-02.33.13:253][580]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2025.10.28-02.33.13:536][614]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2025.10.28-02.33.13:536][614]LogFab: Display: User logged in
+[2025.10.28-02.33.13:536][614]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2025.10.28-02.34.17:056][587]LogFab: Display: Asset Type = unreal-engine
+[2025.10.28-02.34.17:057][587]LogFab: Display: Is Quixel = 0
+[2025.10.28-02.34.17:057][587]LogFab: Display: Base Url https://fastly-download.epicgames.com/Builds/Rocket/Automated/Realistif489377b0596V2/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/Realistif489377b0596V2/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/Realistif489377b0596V2/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/Realistif489377b0596V2/CloudDir
+[2025.10.28-02.34.38:826][650]LogDirectoryWatcher: Display: A directory notification failed for 'E:/UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2025.10.28-02.34.38:826][650]LogDirectoryWatcher: Display: A directory notification failed for 'E:/UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2025.10.28-02.34.38:826][650]LogDirectoryWatcher: Display: A directory notification failed for 'E:/UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Developers/TayzorBlayzor/Collections/' because it could not be accessed. Aborting watch request...
+[2025.10.28-02.34.44:960][756]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.10.28-02.34.44:960][756]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/ac2818b3-7d35-4cf5-a1af-cbf8ff5c61c1.
