@@ -3985,3 +3985,1020 @@ Sampler Limit: 32
 [2025.10.28-02.34.38:826][650]LogDirectoryWatcher: Display: A directory notification failed for 'E:/UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Developers/TayzorBlayzor/Collections/' because it could not be accessed. Aborting watch request...
 [2025.10.28-02.34.44:960][756]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
 [2025.10.28-02.34.44:960][756]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/ac2818b3-7d35-4cf5-a1af-cbf8ff5c61c1.
+[2025.10.28-02.36.50:485][450]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2114.331787
+[2025.10.28-02.36.51:485][453]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-02.36.51:485][453]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2114.998291, Update Interval: 315.580933
+[2025.10.28-02.37.29:522][618]LogStreaming: Display: FlushAsyncLoading(417): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-02.37.29:715][618]LogTexture: Display: Building textures: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_D.T_Fire_D (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.10.28-02.37.29:857][618]LogTexture: Display: Building textures: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_B.T_Fire_B (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 3.583295 MB), EncodeSpeed: Fast
+[2025.10.28-02.37.29:859][618]LogTexture: Display: Building textures: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_B.T_Smoke_B (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 3.583295 MB), EncodeSpeed: Fast
+[2025.10.28-02.37.29:862][618]LogTexture: Display: Building textures: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_F.T_Fire_F (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.10.28-02.37.29:918][618]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_Fire_Small.P_Fire_Small
+[2025.10.28-02.37.29:973][618]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.10.28-02.37.30:075][618]LogTexture: Display: Building textures: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_A.T_Smoke_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.10.28-02.37.30:091][618]LogStaticMesh: Display: Building static mesh AnimTreeEd_PreviewFloor (Required Memory Estimate: 3.43098 MB)...
+[2025.10.28-02.37.30:107][618]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AnimTreeEd_PreviewFloor) ...
+[2025.10.28-02.37.30:155][618]LogStaticMesh: Built static mesh [0.07s] /Engine/EditorMeshes/AnimTreeEd_PreviewFloor.AnimTreeEd_PreviewFloor
+[2025.10.28-02.37.31:087][618]LogSlate: Took 0.031342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.28-02.37.34:043][892]LogCascade: Quitting Cascade. FXSystem=0x000001F006D2EEC0
+[2025.10.28-02.37.34:194][892]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-02.37.34:194][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-02.37.34:281][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.10.28-02.37.40:724][ 81]LogSlate: Window 'Content Browser' being destroyed
+[2025.10.28-02.37.40:732][ 81]LogSlate: Window 'Content Browser' being destroyed
+[2025.10.28-02.37.47:516][329]LogContentBrowser: Deferred new asset file creation: P_Fire_Small1
+[2025.10.28-02.37.47:525][329]LogContentBrowser: Creating deferred item: P_Fire_Small1
+[2025.10.28-02.37.47:537][330]LogContentBrowser: Renaming the item being created (Deferred Item: P_Fire_Small1).
+[2025.10.28-02.37.53:506][716]LogContentBrowser: Attempting asset rename: P_Fire_Small1 -> P_FireTorch
+[2025.10.28-02.37.53:920][716]LogContentBrowser: End creating deferred item P_Fire_Small1
+[2025.10.28-02.37.56:145][849]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch.P_FireTorch
+[2025.10.28-02.37.56:146][849]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.10.28-02.38.47:271][829]LogSlate: Window 'Message' being destroyed
+[2025.10.28-02.38.47:279][829]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2025.10.28-02.38.48:147][918]LogShaderCompilers: Display: ================================================
+[2025.10.28-02.38.48:147][918]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.28-02.38.48:147][918]LogShaderCompilers: Display: Total job queries 1,345, among them cache hits 701 (52.12%), DDC hits 488 (36.28%), Duplicates 109 (8.10%)
+[2025.10.28-02.38.48:147][918]LogShaderCompilers: Display: Tracking 535 distinct input hashes that result in 404 distinct outputs (75.51%)
+[2025.10.28-02.38.48:147][918]LogShaderCompilers: Display: RAM used: 4.54 MiB of 819.20 MiB budget. Usage: 0.55%
+[2025.10.28-02.38.48:147][918]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.28-02.38.48:147][918]LogShaderCompilers: Display: Shaders Compiled: 47
+[2025.10.28-02.38.48:147][918]LogShaderCompilers: Display: Jobs assigned 47, completed 47 (100%)
+[2025.10.28-02.38.48:147][918]LogShaderCompilers: Display: Average time worker was idle: 148.95 s
+[2025.10.28-02.38.48:147][918]LogShaderCompilers: Display: Time job spent in pending queue: average 0.38 s, longest 2.26 s
+[2025.10.28-02.38.48:147][918]LogShaderCompilers: Display: Job execution time: average 1.11 s, max 3.20 s
+[2025.10.28-02.38.48:147][918]LogShaderCompilers: Display: Job life time (pending + execution): average 1.49 s, max 3.51
+[2025.10.28-02.38.48:147][918]LogShaderCompilers: Display: Shader code size: total 473.131 KiB, numShaders 47, average 10.066 KiB, min 5.188 KiB, max 14.91 KiB
+[2025.10.28-02.38.48:147][918]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.16 s
+[2025.10.28-02.38.48:147][918]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.28-02.38.48:147][918]LogShaderCompilers: Display: Jobs were issued in 47 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.28-02.38.48:147][918]LogShaderCompilers: Display: Average processing rate: 3.10 jobs/sec
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display: Total thread time: 25.198 s
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display: Total thread preprocess time: 19.128 s
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display: Percentage time preprocessing: 75.91%
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display: Effective parallelization: 1.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.166160
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 1.31 sec, max 1.40 sec, min 1.15 sec)
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    8 times, average 0.75 sec, max 0.80 sec, min 0.72 sec)
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 0.54 sec, max 0.54 sec, min 0.53 sec)
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   12 times, average 0.44 sec, max 0.66 sec, min 0.34 sec)
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.70% of total time (compiled    8 times, average 0.75 sec, max 0.80 sec, min 0.72 sec)
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.99% of total time (compiled   12 times, average 0.44 sec, max 0.66 sec, min 0.34 sec)
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 15.62% of total time (compiled    3 times, average 1.31 sec, max 1.40 sec, min 1.15 sec)
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.57% of total time (compiled   10 times, average 0.32 sec, max 0.48 sec, min 0.27 sec)
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.70% of total time (compiled    5 times, average 0.44 sec, max 0.50 sec, min 0.35 sec)
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display: === Material stats ===
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display: Materials Translated:    381
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display: Material Total Translate Time: 1.01 s
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display: Material Translation Only: 0.25 s (24%)
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display: Material Cache Hits: 12 (3%)
+[2025.10.28-02.38.48:148][918]LogShaderCompilers: Display: ================================================
+[2025.10.28-02.38.50:721][ 69]LogSlate: Window 'Message' being destroyed
+[2025.10.28-02.38.50:728][ 69]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2025.10.28-02.39.06:229][785]LogSlate: Window 'Message' being destroyed
+[2025.10.28-02.39.06:237][785]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2025.10.28-02.39.09:404][ 28]LogSlate: Window 'Message' being destroyed
+[2025.10.28-02.39.09:413][ 28]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2025.10.28-02.39.16:106][641]LogSlate: Window 'Message' being destroyed
+[2025.10.28-02.39.16:115][641]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2025.10.28-02.39.18:044][736]LogSlate: Window 'Message' being destroyed
+[2025.10.28-02.39.18:051][736]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2025.10.28-02.39.19:808][822]LogSlate: Window 'Message' being destroyed
+[2025.10.28-02.39.19:816][822]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2025.10.28-02.39.21:350][899]LogSlate: Window 'Message' being destroyed
+[2025.10.28-02.39.21:359][899]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2025.10.28-02.39.22:989][977]LogSlate: Window 'Message' being destroyed
+[2025.10.28-02.39.22:997][977]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2025.10.28-02.39.24:655][ 61]LogSlate: Window 'Message' being destroyed
+[2025.10.28-02.39.24:663][ 61]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2025.10.28-02.39.27:169][263]LogSlate: Window 'Message' being destroyed
+[2025.10.28-02.39.27:177][263]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2025.10.28-02.39.28:811][357]LogSlate: Window 'Message' being destroyed
+[2025.10.28-02.39.28:819][357]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2025.10.28-02.39.30:617][440]LogSlate: Window 'Message' being destroyed
+[2025.10.28-02.39.30:625][440]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2025.10.28-02.39.32:639][550]LogSlate: Window 'Message' being destroyed
+[2025.10.28-02.39.32:646][550]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2025.10.28-02.39.35:165][725]LogSlate: Window 'Message' being destroyed
+[2025.10.28-02.39.35:172][725]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2025.10.28-02.39.38:119][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-02.39.38:163][ 74]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch] ([1] browsable assets)...
+[2025.10.28-02.39.38:163][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch]
+[2025.10.28-02.39.38:186][ 74]LogSavePackage: Moving output files for package: /Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch
+[2025.10.28-02.39.38:186][ 74]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/P_FireTorchD2F070A147DBAFEF1772249E84B51EA9.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch.uasset'
+[2025.10.28-02.39.38:194][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.114 ms (total: 4.37 sec)
+[2025.10.28-02.39.38:240][ 74]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-02.39.38:240][ 74]LogContentValidation: Enabled validators:
+[2025.10.28-02.39.38:240][ 74]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-02.39.38:240][ 74]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-02.39.38:240][ 74]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-02.39.38:240][ 74]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-02.39.38:240][ 74]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-02.39.38:240][ 74]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-02.39.38:240][ 74]AssetCheck: /Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch Validating asset
+[2025.10.28-02.39.38:265][ 74]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.28-02.42.46:041][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-02.42.46:069][ 37]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch] ([1] browsable assets)...
+[2025.10.28-02.42.46:069][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch]
+[2025.10.28-02.42.46:089][ 37]LogSavePackage: Moving output files for package: /Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch
+[2025.10.28-02.42.46:090][ 37]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/P_FireTorchFB8ADDE14158A23B713184BF0602D18D.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch.uasset'
+[2025.10.28-02.42.46:097][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.682 ms (total: 4.43 sec)
+[2025.10.28-02.42.46:145][ 37]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-02.42.46:145][ 37]LogContentValidation: Enabled validators:
+[2025.10.28-02.42.46:145][ 37]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-02.42.46:145][ 37]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-02.42.46:145][ 37]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-02.42.46:145][ 37]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-02.42.46:145][ 37]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-02.42.46:145][ 37]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-02.42.46:146][ 37]AssetCheck: /Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch Validating asset
+[2025.10.28-02.43.02:266][247]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2486.114014
+[2025.10.28-02.43.02:545][281]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-02.43.02:545][281]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2486.384766, Update Interval: 312.143921
+[2025.10.28-02.43.12:540][388]LogEditorTransaction: Undo Delete Emitter
+[2025.10.28-02.43.16:482][669]LogSlate: Window 'Message' being destroyed
+[2025.10.28-02.43.16:490][669]Message dialog closed, result: Yes, title: Message, text: Emitter state is different in other LOD levels.
+Are you sure you want to delete it?
+[2025.10.28-02.43.17:474][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-02.43.17:517][775]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch] ([1] browsable assets)...
+[2025.10.28-02.43.17:517][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch]
+[2025.10.28-02.43.17:538][775]LogSavePackage: Moving output files for package: /Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch
+[2025.10.28-02.43.17:538][775]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/P_FireTorch8DD719934DC83B865B1EDC9937721BF7.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch.uasset'
+[2025.10.28-02.43.17:544][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.266 ms (total: 4.50 sec)
+[2025.10.28-02.43.17:595][775]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-02.43.17:595][775]LogContentValidation: Enabled validators:
+[2025.10.28-02.43.17:595][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-02.43.17:595][775]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-02.43.17:595][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-02.43.17:595][775]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-02.43.17:595][775]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-02.43.17:595][775]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-02.43.17:595][775]AssetCheck: /Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch Validating asset
+[2025.10.28-02.45.22:404][895]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.28-02.45.22:414][895]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.28-02.45.22:419][895]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.28-02.45.22:461][896]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.28-02.45.27:130][457]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Torch
+[2025.10.28-02.45.27:242][457]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.28-02.45.28:654][576]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Particles/BP_Torch.BP_Torch
+[2025.10.28-02.45.28:730][576]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.10.28-02.45.29:047][576]LogStreaming: Display: FlushAsyncLoading(430): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-02.45.35:582][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-02.45.35:632][848]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Particles/BP_Torch] ([2] browsable assets)...
+[2025.10.28-02.45.35:632][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Particles/BP_Torch]
+[2025.10.28-02.45.35:632][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Particles/BP_Torch" FILE="../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Particles/BP_Torch.uasset" SILENT=true
+[2025.10.28-02.45.35:687][848]LogSavePackage: Moving output files for package: /Game/Blueprints/Particles/BP_Torch
+[2025.10.28-02.45.35:687][848]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/BP_TorchA4443C314685A471EBB20AAD2A49F8FD.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Particles/BP_Torch.uasset'
+[2025.10.28-02.45.35:695][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.304 ms (total: 4.61 sec)
+[2025.10.28-02.45.35:737][848]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-02.45.35:737][848]LogContentValidation: Enabled validators:
+[2025.10.28-02.45.35:737][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-02.45.35:737][848]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-02.45.35:737][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-02.45.35:737][848]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-02.45.35:737][848]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-02.45.35:737][848]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-02.45.35:737][848]AssetCheck: /Game/Blueprints/Particles/BP_Torch Validating asset
+[2025.10.28-02.45.35:758][848]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.28-02.48.54:092][500]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2837.949463
+[2025.10.28-02.48.54:367][533]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-02.48.54:368][533]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2838.215820, Update Interval: 353.666199
+[2025.10.28-02.51.45:249][719]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.10.28-02.51.49:938][267]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.28-02.53.13:004][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.28-02.53.13:005][388]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Asset_Room' took 0.479
+[2025.10.28-02.53.13:051][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch] ([1] browsable assets)...
+[2025.10.28-02.53.13:051][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch]
+[2025.10.28-02.53.13:069][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch_Auto2
+[2025.10.28-02.53.13:070][388]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/P_FireTorch_Auto2A78EEBFC47599CD945D5CB9AA760D5A9.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/Autosaves/Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch_Auto2.uasset'
+[2025.10.28-02.53.13:090][388]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Particles/BP_Torch] ([2] browsable assets)...
+[2025.10.28-02.53.13:103][388]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Particles/BP_Torch.BP_Torch]
+[2025.10.28-02.53.13:103][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Particles/BP_Torch]
+[2025.10.28-02.53.13:141][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Particles/BP_Torch_Auto2
+[2025.10.28-02.53.13:141][388]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/BP_Torch_Auto2BF8E6E244E0E205548B5FFA7D67F5C9F.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/Autosaves/Game/Blueprints/Particles/BP_Torch_Auto2.uasset'
+[2025.10.28-02.53.13:142][388]LogFileHelpers: Auto-saving content packages took 0.135
+[2025.10.28-02.55.48:223][854]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3252.101318
+[2025.10.28-02.55.49:223][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-02.55.49:223][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3252.767822, Update Interval: 352.052979
+[2025.10.28-03.01.57:489][962]LogDerivedDataCache: C:/Users/TayzorBlayzor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.28-03.02.37:612][ 83]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3661.485596
+[2025.10.28-03.02.38:613][ 86]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-03.02.38:613][ 86]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3662.152344, Update Interval: 314.445618
+[2025.10.28-03.08.20:294][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.10.28-03.08.22:971][818]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Particles/BP_Torch.BP_Torch_C
+[2025.10.28-03.08.23:051][818]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Particles/BP_Torch.BP_Torch_C
+[2025.10.28-03.08.23:053][818]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Particles/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Levels/Asset_Room.Asset_Room:PersistentLevel.BP_Torch_C_0
+[2025.10.28-03.08.23:054][818]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Particles/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Levels/Asset_Room.Asset_Room:PersistentLevel.BP_Torch_C_0
+[2025.10.28-03.08.23:057][818]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.10.28-03.08.23:558][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.10.28-03.08.23:582][845]LogEditorActor: Deleted 0 Actors (0.044 secs)
+[2025.10.28-03.08.23:587][845]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Particles/BP_Torch.BP_Torch_C
+[2025.10.28-03.08.23:587][845]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Particles/BP_Torch.BP_Torch_C
+[2025.10.28-03.08.23:589][845]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Particles/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Levels/Asset_Room.Asset_Room:PersistentLevel.BP_Torch_C_1
+[2025.10.28-03.08.23:590][845]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Particles/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Levels/Asset_Room.Asset_Room:PersistentLevel.BP_Torch_C_1
+[2025.10.28-03.08.25:087][933]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.28-03.08.35:524][525]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.28-03.08.44:719][444]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4028.587646
+[2025.10.28-03.08.45:002][478]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-03.08.45:002][478]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4028.863037, Update Interval: 319.754028
+[2025.10.28-03.08.47:203][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.10.28-03.08.49:963][985]Cmd: DELETE
+[2025.10.28-03.08.50:043][985]Cmd: ACTOR DELETE
+[2025.10.28-03.08.51:009][985]LogEditorActor: Deleted Actor: BP_Torch_C
+[2025.10.28-03.08.51:031][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.28-03.08.51:034][985]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2025.10.28-03.08.52:819][102]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Particles/BP_Torch.BP_Torch_C
+[2025.10.28-03.08.52:819][102]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Particles/BP_Torch.BP_Torch_C
+[2025.10.28-03.08.52:820][102]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Particles/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Levels/Asset_Room.Asset_Room:PersistentLevel.BP_Torch_C_2
+[2025.10.28-03.08.52:821][102]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Particles/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Levels/Asset_Room.Asset_Room:PersistentLevel.BP_Torch_C_2
+[2025.10.28-03.08.53:152][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.28-03.08.53:154][123]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.10.28-03.08.53:160][123]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Particles/BP_Torch.BP_Torch_C
+[2025.10.28-03.08.53:160][123]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Particles/BP_Torch.BP_Torch_C
+[2025.10.28-03.08.53:162][123]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Particles/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Levels/Asset_Room.Asset_Room:PersistentLevel.BP_Torch_C_3
+[2025.10.28-03.08.53:163][123]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Particles/BP_Torch.BP_Torch as actor: BP_Torch_C /Game/Levels/Asset_Room.Asset_Room:PersistentLevel.BP_Torch_C_3
+[2025.10.28-03.08.54:169][190]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.28-03.09.03:771][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.28-03.09.04:420][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-03.09.04:459][197]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Particles/BP_Torch] ([2] browsable assets)...
+[2025.10.28-03.09.04:472][197]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Particles/BP_Torch.BP_Torch]
+[2025.10.28-03.09.04:472][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Particles/BP_Torch]
+[2025.10.28-03.09.04:472][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Particles/BP_Torch" FILE="../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Particles/BP_Torch.uasset" SILENT=true
+[2025.10.28-03.09.04:488][197]LogSavePackage: Moving output files for package: /Game/Blueprints/Particles/BP_Torch
+[2025.10.28-03.09.04:488][197]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/BP_Torch0DDE95234A94C595A19A51853D9AFFA5.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Particles/BP_Torch.uasset'
+[2025.10.28-03.09.04:495][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.174 ms (total: 4.69 sec)
+[2025.10.28-03.09.04:539][197]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-03.09.04:539][197]LogContentValidation: Enabled validators:
+[2025.10.28-03.09.04:539][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-03.09.04:539][197]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-03.09.04:539][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-03.09.04:539][197]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-03.09.04:539][197]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-03.09.04:539][197]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-03.09.04:539][197]AssetCheck: /Game/Blueprints/Particles/BP_Torch Validating asset
+[2025.10.28-03.09.57:149][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.28-03.09.59:963][ 16]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.28-03.10.00:159][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-03.10.00:159][ 16]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Asset_Room
+[2025.10.28-03.10.00:162][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003401s)
+[2025.10.28-03.10.00:162][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Asset_Room.Asset_Room to /Game/Levels/UEDPIE_0_Asset_Room.Asset_Room (0.003434s)
+[2025.10.28-03.10.00:182][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.10.28-03.10.00:186][ 16]LogChaosDD: Creating Chaos Debug Draw Scene for world Asset_Room
+[2025.10.28-03.10.00:187][ 16]LogPlayLevel: PIE: World Init took: (0.001594s)
+[2025.10.28-03.10.00:188][ 16]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.10.28-03.10.00:188][ 16]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-03.10.00:188][ 16]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-03.10.00:188][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-03.10.00:188][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-03.10.00:188][ 16]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-03.10.00:188][ 16]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-03.10.00:188][ 16]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-03.10.00:188][ 16]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-03.10.00:188][ 16]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-03.10.00:188][ 16]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-03.10.00:188][ 16]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-03.10.00:190][ 16]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-03.10.00:213][ 16]LogAudioMixer: Display: Using Audio Hardware Device Headphones (AUSDOM E9)
+[2025.10.28-03.10.00:213][ 16]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-03.10.00:213][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-03.10.00:213][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-03.10.00:214][ 16]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.10.28-03.10.00:214][ 16]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.10.28-03.10.00:216][ 16]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.10.28-03.10.00:216][ 16]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.10.28-03.10.00:216][ 16]LogInit: FAudioDevice initialized with ID 10.
+[2025.10.28-03.10.00:216][ 16]LogAudio: Display: Audio Device (ID: 10) registered with world 'Asset_Room'.
+[2025.10.28-03.10.00:216][ 16]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.10.28-03.10.00:219][ 16]LogLoad: Game class is 'GM_PP_C'
+[2025.10.28-03.10.00:220][ 16]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Asset_Room.Asset_Room up for play (max tick rate 0) at 2025.10.28-14.10.00
+[2025.10.28-03.10.00:221][ 16]LogWorld: Bringing up level for play took: 0.001229
+[2025.10.28-03.10.00:223][ 16]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.10.28-03.10.00:917][ 16]PIE: Server logged in
+[2025.10.28-03.10.00:918][ 16]PIE: Play in editor total start time 0.925 seconds.
+[2025.10.28-03.10.00:946][ 17]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.28-03.10.09:106][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-03.10.09:107][497]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Asset_Room
+[2025.10.28-03.10.09:107][497]LogWorld: UWorld::CleanupWorld for Asset_Room, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-03.10.09:107][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-03.10.09:111][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-03.10.09:116][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-03.10.09:138][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-03.10.09:138][497]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.10.28-03.10.09:139][497]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2025.10.28-03.10.09:140][497]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2025.10.28-03.10.09:148][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.10.28-03.10.09:218][498]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.10.28-03.10.32:813][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-03.10.32:860][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch] ([1] browsable assets)...
+[2025.10.28-03.10.32:860][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch]
+[2025.10.28-03.10.32:881][981]LogSavePackage: Moving output files for package: /Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch
+[2025.10.28-03.10.32:882][981]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/P_FireTorchE873343E4AA9E88D844729ACF871CA8A.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch.uasset'
+[2025.10.28-03.10.32:890][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.932 ms (total: 4.76 sec)
+[2025.10.28-03.10.32:940][981]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-03.10.32:940][981]LogContentValidation: Enabled validators:
+[2025.10.28-03.10.32:940][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-03.10.32:940][981]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-03.10.32:940][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-03.10.32:940][981]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-03.10.32:940][981]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-03.10.32:940][981]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-03.10.32:940][981]AssetCheck: /Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Fire/P_FireTorch Validating asset
+[2025.10.28-03.10.37:863][396]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.28-03.10.37:895][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-03.10.37:895][396]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Asset_Room
+[2025.10.28-03.10.37:898][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003048s)
+[2025.10.28-03.10.37:898][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Asset_Room.Asset_Room to /Game/Levels/UEDPIE_0_Asset_Room.Asset_Room (0.003080s)
+[2025.10.28-03.10.37:920][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.28-03.10.37:924][396]LogChaosDD: Creating Chaos Debug Draw Scene for world Asset_Room
+[2025.10.28-03.10.37:925][396]LogPlayLevel: PIE: World Init took: (0.001557s)
+[2025.10.28-03.10.37:926][396]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.10.28-03.10.37:926][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-03.10.37:926][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-03.10.37:926][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-03.10.37:926][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-03.10.37:926][396]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-03.10.37:926][396]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-03.10.37:926][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-03.10.37:926][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-03.10.37:926][396]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-03.10.37:926][396]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-03.10.37:926][396]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-03.10.37:928][396]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-03.10.37:949][396]LogAudioMixer: Display: Using Audio Hardware Device Headphones (AUSDOM E9)
+[2025.10.28-03.10.37:949][396]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-03.10.37:949][396]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-03.10.37:949][396]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-03.10.37:950][396]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.10.28-03.10.37:950][396]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.10.28-03.10.37:952][396]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.10.28-03.10.37:952][396]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.10.28-03.10.37:952][396]LogInit: FAudioDevice initialized with ID 11.
+[2025.10.28-03.10.37:952][396]LogAudio: Display: Audio Device (ID: 11) registered with world 'Asset_Room'.
+[2025.10.28-03.10.37:952][396]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.10.28-03.10.39:104][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-03.10.39:106][396]LogLoad: Game class is 'GM_PP_C'
+[2025.10.28-03.10.39:108][396]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Asset_Room.Asset_Room up for play (max tick rate 0) at 2025.10.28-14.10.39
+[2025.10.28-03.10.39:108][396]LogWorld: Bringing up level for play took: 0.001591
+[2025.10.28-03.10.39:111][396]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.10.28-03.10.39:116][396]PIE: Server logged in
+[2025.10.28-03.10.39:117][396]PIE: Play in editor total start time 1.222 seconds.
+[2025.10.28-03.10.39:161][397]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1912"
+[2025.10.28-03.10.39:161][397]LogCsvProfiler: Display: Metadata set : systemresolution.resy="970"
+[2025.10.28-03.10.39:168][397]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.28-03.10.46:296][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-03.10.46:296][783]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Asset_Room
+[2025.10.28-03.10.46:299][783]LogSlate: Window 'FPS_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.28-03.10.46:321][783]LogWorld: UWorld::CleanupWorld for Asset_Room, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-03.10.46:322][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-03.10.46:324][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-03.10.46:329][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-03.10.46:358][783]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.10.28-03.10.46:359][783]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2025.10.28-03.10.46:360][783]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2025.10.28-03.10.46:368][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.10.28-03.10.46:450][784]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: ================================================
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: Total job queries 1,349, among them cache hits 704 (52.19%), DDC hits 488 (36.17%), Duplicates 109 (8.08%)
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: Tracking 536 distinct input hashes that result in 405 distinct outputs (75.56%)
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: RAM used: 4.55 MiB of 819.20 MiB budget. Usage: 0.56%
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: Shaders Compiled: 48
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: Jobs assigned 48, completed 48 (100%)
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: Average time worker was idle: 195.77 s
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: Time job spent in pending queue: average 0.38 s, longest 2.26 s
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: Job execution time: average 1.10 s, max 3.20 s
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: Job life time (pending + execution): average 1.48 s, max 3.51
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: Shader code size: total 485.291 KiB, numShaders 48, average 10.109 KiB, min 5.188 KiB, max 14.91 KiB
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.86 s
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: Jobs were issued in 48 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: Average processing rate: 3.03 jobs/sec
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: Total thread time: 25.53 s
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: Total thread preprocess time: 19.182 s
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: Percentage time preprocessing: 75.14%
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: Effective parallelization: 1.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.160986
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 1.31 sec, max 1.40 sec, min 1.15 sec)
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    8 times, average 0.75 sec, max 0.80 sec, min 0.72 sec)
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 0.54 sec, max 0.54 sec, min 0.53 sec)
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   12 times, average 0.44 sec, max 0.66 sec, min 0.34 sec)
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.39% of total time (compiled    8 times, average 0.75 sec, max 0.80 sec, min 0.72 sec)
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.72% of total time (compiled   12 times, average 0.44 sec, max 0.66 sec, min 0.34 sec)
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 15.41% of total time (compiled    3 times, average 1.31 sec, max 1.40 sec, min 1.15 sec)
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.41% of total time (compiled   10 times, average 0.32 sec, max 0.48 sec, min 0.27 sec)
+[2025.10.28-03.11.48:639][ 18]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.58% of total time (compiled    5 times, average 0.44 sec, max 0.50 sec, min 0.35 sec)
+[2025.10.28-03.11.48:640][ 18]LogShaderCompilers: Display: === Material stats ===
+[2025.10.28-03.11.48:640][ 18]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.28-03.11.48:640][ 18]LogShaderCompilers: Display: Materials Translated:    382
+[2025.10.28-03.11.48:640][ 18]LogShaderCompilers: Display: Material Total Translate Time: 1.02 s
+[2025.10.28-03.11.48:640][ 18]LogShaderCompilers: Display: Material Translation Only: 0.25 s (24%)
+[2025.10.28-03.11.48:640][ 18]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.28-03.11.48:640][ 18]LogShaderCompilers: Display: Material Cache Hits: 12 (3%)
+[2025.10.28-03.11.48:640][ 18]LogShaderCompilers: Display: ================================================
+[2025.10.28-03.11.58:177][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.10.28-03.12.00:481][314]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.28-03.12.00:515][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-03.12.00:515][314]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Asset_Room
+[2025.10.28-03.12.00:519][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003034s)
+[2025.10.28-03.12.00:519][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Asset_Room.Asset_Room to /Game/Levels/UEDPIE_0_Asset_Room.Asset_Room (0.003065s)
+[2025.10.28-03.12.00:539][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.10.28-03.12.00:542][314]LogChaosDD: Creating Chaos Debug Draw Scene for world Asset_Room
+[2025.10.28-03.12.00:544][314]LogPlayLevel: PIE: World Init took: (0.001396s)
+[2025.10.28-03.12.00:544][314]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.10.28-03.12.00:544][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-03.12.00:544][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-03.12.00:544][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-03.12.00:544][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-03.12.00:544][314]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-03.12.00:544][314]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-03.12.00:544][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-03.12.00:544][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-03.12.00:544][314]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-03.12.00:544][314]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-03.12.00:544][314]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-03.12.00:547][314]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-03.12.00:568][314]LogAudioMixer: Display: Using Audio Hardware Device Headphones (AUSDOM E9)
+[2025.10.28-03.12.00:568][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-03.12.00:568][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-03.12.00:568][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-03.12.00:569][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.10.28-03.12.00:569][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.10.28-03.12.00:571][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.10.28-03.12.00:571][314]LogInit: FAudioDevice initialized with ID 12.
+[2025.10.28-03.12.00:571][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.10.28-03.12.00:571][314]LogAudio: Display: Audio Device (ID: 12) registered with world 'Asset_Room'.
+[2025.10.28-03.12.00:571][314]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.10.28-03.12.00:575][314]LogLoad: Game class is 'GM_PP_C'
+[2025.10.28-03.12.00:576][314]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Asset_Room.Asset_Room up for play (max tick rate 0) at 2025.10.28-14.12.00
+[2025.10.28-03.12.00:577][314]LogWorld: Bringing up level for play took: 0.001192
+[2025.10.28-03.12.00:579][314]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.10.28-03.12.00:582][314]PIE: Server logged in
+[2025.10.28-03.12.00:584][314]PIE: Play in editor total start time 0.069 seconds.
+[2025.10.28-03.12.00:619][315]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.28-03.12.07:078][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-03.12.07:078][715]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Asset_Room
+[2025.10.28-03.12.07:078][715]LogWorld: UWorld::CleanupWorld for Asset_Room, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-03.12.07:079][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-03.12.07:084][715]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-03.12.07:089][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-03.12.07:114][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-03.12.07:114][715]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.10.28-03.12.07:114][715]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2025.10.28-03.12.07:116][715]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2025.10.28-03.12.07:122][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.10.28-03.12.07:190][716]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.10.28-03.12.22:603][804]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.28-03.12.22:632][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-03.12.22:633][804]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Asset_Room
+[2025.10.28-03.12.22:636][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003520s)
+[2025.10.28-03.12.22:636][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Asset_Room.Asset_Room to /Game/Levels/UEDPIE_0_Asset_Room.Asset_Room (0.003553s)
+[2025.10.28-03.12.22:657][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.28-03.12.22:658][804]LogChaosDD: Creating Chaos Debug Draw Scene for world Asset_Room
+[2025.10.28-03.12.22:659][804]LogPlayLevel: PIE: World Init took: (0.001507s)
+[2025.10.28-03.12.22:660][804]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.10.28-03.12.22:660][804]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-03.12.22:660][804]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-03.12.22:660][804]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-03.12.22:660][804]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-03.12.22:660][804]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-03.12.22:660][804]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-03.12.22:660][804]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-03.12.22:660][804]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-03.12.22:660][804]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-03.12.22:660][804]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-03.12.22:660][804]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-03.12.22:662][804]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-03.12.22:685][804]LogAudioMixer: Display: Using Audio Hardware Device Headphones (AUSDOM E9)
+[2025.10.28-03.12.22:685][804]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-03.12.22:685][804]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-03.12.22:685][804]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-03.12.22:686][804]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.10.28-03.12.22:686][804]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.10.28-03.12.22:689][804]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.10.28-03.12.22:689][804]LogInit: FAudioDevice initialized with ID 13.
+[2025.10.28-03.12.22:689][804]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.10.28-03.12.22:689][804]LogAudio: Display: Audio Device (ID: 13) registered with world 'Asset_Room'.
+[2025.10.28-03.12.22:689][804]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.10.28-03.12.22:693][804]LogLoad: Game class is 'GM_PP_C'
+[2025.10.28-03.12.22:694][804]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Asset_Room.Asset_Room up for play (max tick rate 0) at 2025.10.28-14.12.22
+[2025.10.28-03.12.22:694][804]LogWorld: Bringing up level for play took: 0.001331
+[2025.10.28-03.12.22:696][804]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.10.28-03.12.22:700][804]PIE: Server logged in
+[2025.10.28-03.12.22:702][804]PIE: Play in editor total start time 0.069 seconds.
+[2025.10.28-03.12.22:739][805]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.28-03.12.28:347][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-03.12.28:347][149]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Asset_Room
+[2025.10.28-03.12.28:347][149]LogWorld: UWorld::CleanupWorld for Asset_Room, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-03.12.28:348][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-03.12.28:351][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-03.12.28:356][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-03.12.28:381][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-03.12.28:382][149]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.10.28-03.12.28:382][149]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2025.10.28-03.12.28:384][149]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2025.10.28-03.12.28:390][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.28-03.12.28:461][150]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.10.28-03.12.40:952][886]Cmd: EDIT COPY
+[2025.10.28-03.12.41:128][897]Cmd: EDIT PASTE
+[2025.10.28-03.12.44:149][ 75]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.28-03.12.59:566][ 64]Cmd: EDIT COPY
+[2025.10.28-03.13.05:108][374]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.05:108][374]LogEditorTransaction: Undo Move Elements
+[2025.10.28-03.13.06:001][410]Cmd: EDIT COPY
+[2025.10.28-03.13.06:538][444]Cmd: EDIT PASTE
+[2025.10.28-03.13.14:345][899]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.28-03.13.24:398][453]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.28-03.13.37:414][275]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.28-03.13.39:395][399]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.28-03.13.39:430][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-03.13.39:430][399]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Asset_Room
+[2025.10.28-03.13.39:433][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003193s)
+[2025.10.28-03.13.39:433][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Asset_Room.Asset_Room to /Game/Levels/UEDPIE_0_Asset_Room.Asset_Room (0.003228s)
+[2025.10.28-03.13.39:458][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.10.28-03.13.39:463][399]LogChaosDD: Creating Chaos Debug Draw Scene for world Asset_Room
+[2025.10.28-03.13.39:464][399]LogPlayLevel: PIE: World Init took: (0.001403s)
+[2025.10.28-03.13.39:465][399]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.10.28-03.13.39:465][399]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-03.13.39:465][399]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-03.13.39:465][399]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-03.13.39:465][399]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-03.13.39:465][399]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-03.13.39:465][399]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-03.13.39:465][399]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-03.13.39:465][399]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-03.13.39:465][399]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-03.13.39:465][399]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-03.13.39:465][399]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-03.13.39:468][399]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-03.13.39:490][399]LogAudioMixer: Display: Using Audio Hardware Device Headphones (AUSDOM E9)
+[2025.10.28-03.13.39:490][399]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-03.13.39:490][399]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-03.13.39:490][399]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-03.13.39:490][399]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.10.28-03.13.39:490][399]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.10.28-03.13.39:493][399]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.10.28-03.13.39:493][399]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.10.28-03.13.39:493][399]LogInit: FAudioDevice initialized with ID 14.
+[2025.10.28-03.13.39:493][399]LogAudio: Display: Audio Device (ID: 14) registered with world 'Asset_Room'.
+[2025.10.28-03.13.39:493][399]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.10.28-03.13.39:497][399]LogLoad: Game class is 'GM_PP_C'
+[2025.10.28-03.13.39:498][399]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Asset_Room.Asset_Room up for play (max tick rate 0) at 2025.10.28-14.13.39
+[2025.10.28-03.13.39:498][399]LogWorld: Bringing up level for play took: 0.001391
+[2025.10.28-03.13.39:500][399]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.10.28-03.13.39:504][399]PIE: Server logged in
+[2025.10.28-03.13.39:505][399]PIE: Play in editor total start time 0.076 seconds.
+[2025.10.28-03.13.39:536][400]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.28-03.13.46:276][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-03.13.46:276][832]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Asset_Room
+[2025.10.28-03.13.46:276][832]LogWorld: UWorld::CleanupWorld for Asset_Room, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-03.13.46:277][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-03.13.46:280][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-03.13.46:285][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-03.13.46:307][832]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.28-03.13.46:307][832]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.10.28-03.13.46:308][832]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2025.10.28-03.13.46:310][832]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2025.10.28-03.13.46:313][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-03.13.46:316][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.10.28-03.13.46:387][833]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.10.28-03.13.48:620][967]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.48:620][967]LogEditorTransaction: Undo Move Elements
+[2025.10.28-03.13.48:921][971]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.48:921][971]LogEditorTransaction: Undo Rotate Elements
+[2025.10.28-03.13.49:222][977]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.49:222][977]LogEditorTransaction: Undo Move Elements
+[2025.10.28-03.13.49:449][992]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.49:449][992]LogEditorTransaction: Undo Move Elements
+[2025.10.28-03.13.49:658][  4]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.49:658][  4]LogEditorTransaction: Undo Move Elements
+[2025.10.28-03.13.49:834][ 14]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.49:835][ 14]LogEditorTransaction: Undo Move Elements
+[2025.10.28-03.13.50:010][ 24]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.50:010][ 24]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.28-03.13.50:192][ 34]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.50:192][ 34]LogEditorTransaction: Undo Move Elements
+[2025.10.28-03.13.50:368][ 44]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.50:369][ 44]LogEditorTransaction: Undo Move Elements
+[2025.10.28-03.13.50:566][ 55]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.50:566][ 55]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.28-03.13.50:770][ 66]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.50:770][ 66]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.28-03.13.50:975][ 77]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.50:975][ 77]LogEditorTransaction: Undo Move Elements
+[2025.10.28-03.13.51:173][ 88]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.51:173][ 88]LogEditorTransaction: Undo Move Elements
+[2025.10.28-03.13.51:372][ 99]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.51:372][ 99]LogEditorTransaction: Undo Move Elements
+[2025.10.28-03.13.51:603][112]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.51:603][112]LogEditorTransaction: Undo Paste
+[2025.10.28-03.13.51:898][127]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.51:898][127]LogEditorTransaction: Undo Move Elements
+[2025.10.28-03.13.52:258][145]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.52:258][145]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.28-03.13.52:695][153]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.52:695][153]LogEditorTransaction: Undo Move Elements
+[2025.10.28-03.13.55:472][311]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.55:472][311]LogEditorTransaction: Undo Move Elements
+[2025.10.28-03.13.56:512][370]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.56:512][370]LogEditorTransaction: Undo Paste
+[2025.10.28-03.13.57:606][414]Cmd: TRANSACTION UNDO
+[2025.10.28-03.13.57:606][414]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.28-03.13.59:294][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-03.13.59:371][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Asset_Room" FILE="../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Levels/Asset_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.28-03.13.59:513][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.10.28-03.13.59:538][509]LogSavePackage: Moving output files for package: /Game/Levels/Asset_Room
+[2025.10.28-03.13.59:538][509]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/Asset_Room66952295491BC152A0CD09877D1A1C8B.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Levels/Asset_Room.umap'
+[2025.10.28-03.13.59:595][509]LogFileHelpers: Saving map 'Asset_Room' took 0.224
+[2025.10.28-03.13.59:605][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 312.031 ms (total: 5.08 sec)
+[2025.10.28-03.13.59:649][509]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-03.13.59:649][509]LogContentValidation: Enabled validators:
+[2025.10.28-03.13.59:649][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-03.13.59:649][509]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-03.13.59:649][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-03.13.59:649][509]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-03.13.59:649][509]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-03.13.59:649][509]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-03.13.59:649][509]AssetCheck: /Game/Levels/Asset_Room Validating asset
+[2025.10.28-03.14.26:290][ 39]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.28-03.14.39:491][526]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4383.352539
+[2025.10.28-03.14.39:774][560]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-03.14.39:774][560]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4383.628906, Update Interval: 327.838379
+[2025.10.28-03.14.42:641][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.28-03.14.43:760][  6]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.28-03.14.43:792][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-03.14.43:792][  6]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Asset_Room
+[2025.10.28-03.14.43:795][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003115s)
+[2025.10.28-03.14.43:795][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Asset_Room.Asset_Room to /Game/Levels/UEDPIE_0_Asset_Room.Asset_Room (0.003144s)
+[2025.10.28-03.14.43:819][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.10.28-03.14.43:822][  6]LogChaosDD: Creating Chaos Debug Draw Scene for world Asset_Room
+[2025.10.28-03.14.43:823][  6]LogPlayLevel: PIE: World Init took: (0.001410s)
+[2025.10.28-03.14.43:824][  6]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.10.28-03.14.43:824][  6]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-03.14.43:824][  6]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-03.14.43:824][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-03.14.43:824][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-03.14.43:824][  6]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-03.14.43:824][  6]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-03.14.43:824][  6]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-03.14.43:824][  6]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-03.14.43:824][  6]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-03.14.43:824][  6]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-03.14.43:824][  6]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-03.14.43:826][  6]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-03.14.43:848][  6]LogAudioMixer: Display: Using Audio Hardware Device Headphones (AUSDOM E9)
+[2025.10.28-03.14.43:849][  6]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-03.14.43:849][  6]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-03.14.43:849][  6]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-03.14.43:849][  6]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.10.28-03.14.43:849][  6]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.10.28-03.14.43:852][  6]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.10.28-03.14.43:852][  6]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.10.28-03.14.43:852][  6]LogInit: FAudioDevice initialized with ID 15.
+[2025.10.28-03.14.43:852][  6]LogAudio: Display: Audio Device (ID: 15) registered with world 'Asset_Room'.
+[2025.10.28-03.14.43:852][  6]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.10.28-03.14.43:890][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-03.14.43:890][  6]LogLoad: Game class is 'GM_PP_C'
+[2025.10.28-03.14.43:891][  6]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Asset_Room.Asset_Room up for play (max tick rate 0) at 2025.10.28-14.14.43
+[2025.10.28-03.14.43:891][  6]LogWorld: Bringing up level for play took: 0.001193
+[2025.10.28-03.14.43:894][  6]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.10.28-03.14.43:900][  6]PIE: Server logged in
+[2025.10.28-03.14.43:901][  6]PIE: Play in editor total start time 0.11 seconds.
+[2025.10.28-03.14.43:943][  7]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.28-03.14.56:546][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-03.14.56:546][676]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Asset_Room
+[2025.10.28-03.14.56:547][676]LogSlate: Window 'FPS_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.28-03.14.56:582][676]LogWorld: UWorld::CleanupWorld for Asset_Room, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-03.14.56:583][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-03.14.56:585][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-03.14.56:591][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-03.14.56:612][676]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.28-03.14.56:612][676]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.10.28-03.14.56:612][676]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2025.10.28-03.14.56:614][676]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2025.10.28-03.14.56:623][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.28-03.14.56:706][677]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.10.28-03.15.13:425][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.10.28-03.15.14:681][604]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.28-03.15.14:712][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-03.15.14:712][604]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Asset_Room
+[2025.10.28-03.15.14:715][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003009s)
+[2025.10.28-03.15.14:715][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Asset_Room.Asset_Room to /Game/Levels/UEDPIE_0_Asset_Room.Asset_Room (0.003040s)
+[2025.10.28-03.15.14:735][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.10.28-03.15.14:738][604]LogChaosDD: Creating Chaos Debug Draw Scene for world Asset_Room
+[2025.10.28-03.15.14:739][604]LogPlayLevel: PIE: World Init took: (0.001359s)
+[2025.10.28-03.15.14:740][604]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.10.28-03.15.14:740][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-03.15.14:740][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-03.15.14:740][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-03.15.14:740][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-03.15.14:740][604]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-03.15.14:740][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-03.15.14:740][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-03.15.14:740][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-03.15.14:740][604]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-03.15.14:740][604]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-03.15.14:740][604]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-03.15.14:742][604]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-03.15.14:763][604]LogAudioMixer: Display: Using Audio Hardware Device Headphones (AUSDOM E9)
+[2025.10.28-03.15.14:763][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-03.15.14:763][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-03.15.14:763][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-03.15.14:764][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.10.28-03.15.14:764][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.10.28-03.15.14:766][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.10.28-03.15.14:766][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.10.28-03.15.14:766][604]LogInit: FAudioDevice initialized with ID 16.
+[2025.10.28-03.15.14:766][604]LogAudio: Display: Audio Device (ID: 16) registered with world 'Asset_Room'.
+[2025.10.28-03.15.14:766][604]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.10.28-03.15.14:810][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-03.15.14:810][604]LogLoad: Game class is 'GM_PP_C'
+[2025.10.28-03.15.14:810][604]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Asset_Room.Asset_Room up for play (max tick rate 0) at 2025.10.28-14.15.14
+[2025.10.28-03.15.14:810][604]LogWorld: Bringing up level for play took: 0.001246
+[2025.10.28-03.15.14:812][604]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.10.28-03.15.14:818][604]PIE: Server logged in
+[2025.10.28-03.15.14:819][604]PIE: Play in editor total start time 0.107 seconds.
+[2025.10.28-03.15.14:868][605]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.28-03.15.24:066][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-03.15.24:066][100]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Asset_Room
+[2025.10.28-03.15.24:067][100]LogSlate: Window 'FPS_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.28-03.15.24:093][100]LogWorld: UWorld::CleanupWorld for Asset_Room, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-03.15.24:093][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-03.15.24:095][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-03.15.24:100][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-03.15.24:125][100]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.28-03.15.24:125][100]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.10.28-03.15.24:125][100]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2025.10.28-03.15.24:128][100]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2025.10.28-03.15.24:136][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.28-03.15.24:219][101]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.10.28-03.15.35:972][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.10.28-03.15.36:843][574]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.28-03.15.36:874][574]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-03.15.36:874][574]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Asset_Room
+[2025.10.28-03.15.36:877][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003244s)
+[2025.10.28-03.15.36:877][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Asset_Room.Asset_Room to /Game/Levels/UEDPIE_0_Asset_Room.Asset_Room (0.003274s)
+[2025.10.28-03.15.36:897][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.10.28-03.15.36:899][574]LogChaosDD: Creating Chaos Debug Draw Scene for world Asset_Room
+[2025.10.28-03.15.36:901][574]LogPlayLevel: PIE: World Init took: (0.001478s)
+[2025.10.28-03.15.36:902][574]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.10.28-03.15.36:902][574]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-03.15.36:902][574]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-03.15.36:902][574]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-03.15.36:902][574]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-03.15.36:902][574]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-03.15.36:902][574]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-03.15.36:902][574]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-03.15.36:902][574]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-03.15.36:902][574]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-03.15.36:902][574]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-03.15.36:902][574]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-03.15.36:904][574]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-03.15.36:926][574]LogAudioMixer: Display: Using Audio Hardware Device Headphones (AUSDOM E9)
+[2025.10.28-03.15.36:926][574]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-03.15.36:926][574]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-03.15.36:926][574]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-03.15.36:926][574]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.10.28-03.15.36:926][574]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.10.28-03.15.36:929][574]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.10.28-03.15.36:929][574]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.10.28-03.15.36:929][574]LogInit: FAudioDevice initialized with ID 17.
+[2025.10.28-03.15.36:929][574]LogAudio: Display: Audio Device (ID: 17) registered with world 'Asset_Room'.
+[2025.10.28-03.15.36:929][574]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.10.28-03.15.36:971][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-03.15.36:971][574]LogLoad: Game class is 'GM_PP_C'
+[2025.10.28-03.15.36:971][574]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Asset_Room.Asset_Room up for play (max tick rate 0) at 2025.10.28-14.15.36
+[2025.10.28-03.15.36:971][574]LogWorld: Bringing up level for play took: 0.001311
+[2025.10.28-03.15.36:974][574]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.10.28-03.15.36:978][574]PIE: Server logged in
+[2025.10.28-03.15.36:980][574]PIE: Play in editor total start time 0.107 seconds.
+[2025.10.28-03.15.37:025][575]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.28-03.15.41:856][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-03.15.41:857][825]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Asset_Room
+[2025.10.28-03.15.41:857][825]LogSlate: Window 'FPS_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.28-03.15.41:884][825]LogWorld: UWorld::CleanupWorld for Asset_Room, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-03.15.41:885][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-03.15.41:888][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-03.15.41:892][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-03.15.41:916][825]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.28-03.15.41:916][825]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.10.28-03.15.41:917][825]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2025.10.28-03.15.41:918][825]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2025.10.28-03.15.41:924][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.28-03.15.42:007][826]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.10.28-03.15.46:861][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.28-03.15.47:465][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-03.15.47:518][458]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Particles/BP_Torch] ([2] browsable assets)...
+[2025.10.28-03.15.47:530][458]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Particles/BP_Torch.BP_Torch]
+[2025.10.28-03.15.47:530][458]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Particles/BP_Torch]
+[2025.10.28-03.15.47:530][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Particles/BP_Torch" FILE="../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Particles/BP_Torch.uasset" SILENT=true
+[2025.10.28-03.15.47:545][458]LogSavePackage: Moving output files for package: /Game/Blueprints/Particles/BP_Torch
+[2025.10.28-03.15.47:545][458]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/BP_TorchFBAF81704FE5D66385A4A4837E90B8D5.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Particles/BP_Torch.uasset'
+[2025.10.28-03.15.47:552][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.862 ms (total: 5.16 sec)
+[2025.10.28-03.15.47:594][458]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-03.15.47:594][458]LogContentValidation: Enabled validators:
+[2025.10.28-03.15.47:594][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-03.15.47:594][458]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-03.15.47:594][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-03.15.47:594][458]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-03.15.47:594][458]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-03.15.47:594][458]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-03.15.47:594][458]AssetCheck: /Game/Blueprints/Particles/BP_Torch Validating asset
+[2025.10.28-03.16.16:774][747]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.28-03.16.40:534][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-03.16.40:534][412]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Particles/BP_Torch] ([2] browsable assets)...
+[2025.10.28-03.16.40:546][412]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Particles/BP_Torch.BP_Torch]
+[2025.10.28-03.16.40:546][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Particles/BP_Torch]
+[2025.10.28-03.16.40:546][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Particles/BP_Torch" FILE="../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Particles/BP_Torch.uasset" SILENT=true
+[2025.10.28-03.16.40:561][412]LogSavePackage: Moving output files for package: /Game/Blueprints/Particles/BP_Torch
+[2025.10.28-03.16.40:561][412]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/BP_TorchEB03F4034D6E2048060CA091DFDE2D7E.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Particles/BP_Torch.uasset'
+[2025.10.28-03.16.40:562][412]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Particles/P_FireTorch] ([1] browsable assets)...
+[2025.10.28-03.16.40:562][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Particles/P_FireTorch]
+[2025.10.28-03.16.40:562][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Particles/P_FireTorch" FILE="../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Particles/P_FireTorch.uasset" SILENT=true
+[2025.10.28-03.16.40:579][412]LogSavePackage: Moving output files for package: /Game/Blueprints/Particles/P_FireTorch
+[2025.10.28-03.16.40:579][412]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/P_FireTorch135A3246428D60F8D684679617C079A2.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Particles/P_FireTorch.uasset'
+[2025.10.28-03.16.40:582][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.782 ms (total: 5.21 sec)
+[2025.10.28-03.16.40:688][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.10.28-03.16.40:715][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.28-03.16.40:743][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.10.28-03.16.40:784][412]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.28-03.16.40:784][412]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.28-03.16.40:784][412]LogContentValidation: Enabled validators:
+[2025.10.28-03.16.40:784][412]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-03.16.40:784][412]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-03.16.40:784][412]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-03.16.40:784][412]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-03.16.40:784][412]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-03.16.40:784][412]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-03.16.40:784][412]AssetCheck: /Game/Blueprints/Particles/BP_Torch Validating asset
+[2025.10.28-03.16.40:784][412]AssetCheck: /Game/Blueprints/Particles/P_FireTorch Validating asset
+[2025.10.28-03.16.40:832][412]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.28-03.16.46:796][ 59]LogContentBrowser: Deferred new asset file creation: P_FireTorch1
+[2025.10.28-03.16.46:808][ 59]LogContentBrowser: Creating deferred item: P_FireTorch1
+[2025.10.28-03.16.46:820][ 60]LogContentBrowser: Renaming the item being created (Deferred Item: P_FireTorch1).
+[2025.10.28-03.16.47:747][172]LogContentBrowser: Attempting asset rename: P_FireTorch1 -> P_FireTorch1
+[2025.10.28-03.16.47:750][172]LogContentBrowser: End creating deferred item P_FireTorch1
+[2025.10.28-03.16.51:748][624]LogContentBrowser: Attempting asset rename: P_FireTorch1 -> P_FireTorchBlue
+[2025.10.28-03.16.51:812][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-03.16.51:813][624]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Particles/P_FireTorchBlue] ([1] browsable assets)...
+[2025.10.28-03.16.51:813][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Particles/P_FireTorchBlue]
+[2025.10.28-03.16.51:832][624]LogSavePackage: Moving output files for package: /Game/Blueprints/Particles/P_FireTorchBlue
+[2025.10.28-03.16.51:832][624]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/P_FireTorchBlueC58E356947B34F31D4D162ACC1E63AB2.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Particles/P_FireTorchBlue.uasset'
+[2025.10.28-03.16.51:833][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 20.714 ms (total: 5.23 sec)
+[2025.10.28-03.16.51:872][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.10.28-03.16.51:900][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.28-03.16.51:925][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.10.28-03.16.51:978][624]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-03.16.51:978][624]LogContentValidation: Enabled validators:
+[2025.10.28-03.16.51:978][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-03.16.51:978][624]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-03.16.51:978][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-03.16.51:979][624]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-03.16.51:979][624]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-03.16.51:979][624]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-03.16.51:979][624]AssetCheck: /Game/Blueprints/Particles/P_FireTorchBlue Validating asset
+[2025.10.28-03.16.52:043][624]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.28-03.16.52:843][698]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Blueprints/Particles/P_FireTorchBlue.P_FireTorchBlue
+[2025.10.28-03.16.52:844][698]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.10.28-03.17.14:977][104]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.28-03.17.26:183][326]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.28-03.17.29:988][720]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.28-03.17.41:772][ 66]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.28-03.17.54:993][511]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.28-03.18.18:260][189]LogCascade: Quitting Cascade. FXSystem=0x000001EEEBC0E840
+[2025.10.28-03.18.18:367][189]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-03.18.18:367][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-03.18.18:408][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.10.28-03.18.22:219][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.10.28-03.18.22:466][576]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.10.28-03.18.22:586][576]LogSlate: Took 0.118864 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.10.28-03.18.23:470][576]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.28-03.18.23:514][576]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Particles/P_FireTorchBlue.P_FireTorchBlue
+	Asset Type: ParticleSystem
+[2025.10.28-03.18.23:975][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.28-03.18.24:001][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.10.28-03.18.24:026][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.10.28-03.18.55:943][125]LogStreaming: Display: FlushAsyncLoading(571): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-03.18.56:266][125]LogTexture: Display: Building textures: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Splash_A.T_Splash_A (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.10.28-03.18.56:334][125]LogTexture: Display: Building textures: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Dirt_C.T_Dirt_C (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.333209 MB), EncodeSpeed: Fast
+[2025.10.28-03.18.56:384][125]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Blood/P_Blood_Splat_Cone.P_Blood_Splat_Cone
+[2025.10.28-03.18.56:386][125]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.10.28-03.19.00:089][459]LogPSOHitching: Encountered 50 PSO creation hitches so far (18 graphics, 32 compute). 0 of them were precached.
+[2025.10.28-03.19.17:605][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-03.19.17:656][544]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Blood/P_Blood_Splat_Cone] ([1] browsable assets)...
+[2025.10.28-03.19.17:656][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Blood/P_Blood_Splat_Cone]
+[2025.10.28-03.19.17:674][544]LogSavePackage: Moving output files for package: /Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Blood/P_Blood_Splat_Cone
+[2025.10.28-03.19.17:674][544]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/P_Blood_Splat_ConeEC101C02415B688232D8ADA0E528ABE5.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Realistic_Starter_VFX_Pack_Vol2/Particles/Blood/P_Blood_Splat_Cone.uasset'
+[2025.10.28-03.19.17:680][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.677 ms (total: 5.31 sec)
+[2025.10.28-03.19.17:731][544]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-03.19.17:732][544]LogContentValidation: Enabled validators:
+[2025.10.28-03.19.17:732][544]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-03.19.17:732][544]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-03.19.17:732][544]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-03.19.17:732][544]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-03.19.17:732][544]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-03.19.17:732][544]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-03.19.17:732][544]AssetCheck: /Game/Realistic_Starter_VFX_Pack_Vol2/Particles/Blood/P_Blood_Splat_Cone Validating asset
+[2025.10.28-03.19.17:752][544]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.28-03.19.18:863][676]LogCascade: Quitting Cascade. FXSystem=0x000001EFE9AA4580
+[2025.10.28-03.19.18:968][676]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-03.19.18:968][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-03.19.19:011][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.28-03.19.33:750][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.10.28-03.19.34:403][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-03.19.34:450][842]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Particles/BP_Torch] ([2] browsable assets)...
+[2025.10.28-03.19.34:464][842]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Particles/BP_Torch.BP_Torch]
+[2025.10.28-03.19.34:464][842]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Particles/BP_Torch]
+[2025.10.28-03.19.34:464][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Particles/BP_Torch" FILE="../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Particles/BP_Torch.uasset" SILENT=true
+[2025.10.28-03.19.34:480][842]LogSavePackage: Moving output files for package: /Game/Blueprints/Particles/BP_Torch
+[2025.10.28-03.19.34:480][842]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/BP_Torch0B9318D74ED4C81E703219BEEE69AFCE.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Particles/BP_Torch.uasset'
+[2025.10.28-03.19.34:487][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.530 ms (total: 5.39 sec)
+[2025.10.28-03.19.34:530][842]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-03.19.34:531][842]LogContentValidation: Enabled validators:
+[2025.10.28-03.19.34:531][842]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-03.19.34:531][842]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-03.19.34:531][842]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-03.19.34:531][842]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-03.19.34:531][842]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-03.19.34:531][842]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-03.19.34:531][842]AssetCheck: /Game/Blueprints/Particles/BP_Torch Validating asset
+[2025.10.28-03.19.41:162][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.28-03.19.41:879][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-03.19.41:920][702]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Particles/BP_Torch] ([2] browsable assets)...
+[2025.10.28-03.19.41:932][702]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Particles/BP_Torch.BP_Torch]
+[2025.10.28-03.19.41:932][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Particles/BP_Torch]
+[2025.10.28-03.19.41:932][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Particles/BP_Torch" FILE="../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Particles/BP_Torch.uasset" SILENT=true
+[2025.10.28-03.19.41:953][702]LogSavePackage: Moving output files for package: /Game/Blueprints/Particles/BP_Torch
+[2025.10.28-03.19.41:953][702]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/BP_TorchACFE76684063ACAC483B1DA95474878F.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Particles/BP_Torch.uasset'
+[2025.10.28-03.19.41:959][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.689 ms (total: 5.47 sec)
+[2025.10.28-03.19.42:010][702]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-03.19.42:010][702]LogContentValidation: Enabled validators:
+[2025.10.28-03.19.42:010][702]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-03.19.42:010][702]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-03.19.42:010][702]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-03.19.42:010][702]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-03.19.42:010][702]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-03.19.42:010][702]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-03.19.42:010][702]AssetCheck: /Game/Blueprints/Particles/BP_Torch Validating asset
+[2025.10.28-03.19.43:227][832]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-03.19.43:227][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-03.19.43:405][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.10.28-03.19.44:101][915]LogCascade: Quitting Cascade. FXSystem=0x000001EEFA967A40
+[2025.10.28-03.19.44:209][915]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2025.10.28-03.19.44:209][915]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-03.19.44:209][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-03.19.44:239][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.28-03.19.45:322][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-03.19.45:401][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Asset_Room" FILE="../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Levels/Asset_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.28-03.19.45:529][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.10.28-03.19.45:551][979]LogSavePackage: Moving output files for package: /Game/Levels/Asset_Room
+[2025.10.28-03.19.45:551][979]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/Asset_Room649AB556441C48AA54E25196B4314B81.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Levels/Asset_Room.umap'
+[2025.10.28-03.19.45:607][979]LogFileHelpers: Saving map 'Asset_Room' took 0.206
+[2025.10.28-03.19.45:612][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 290.033 ms (total: 5.76 sec)
+[2025.10.28-03.19.45:663][979]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-03.19.45:663][979]LogContentValidation: Enabled validators:
+[2025.10.28-03.19.45:663][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-03.19.45:663][979]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-03.19.45:663][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-03.19.45:663][979]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-03.19.45:663][979]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-03.19.45:663][979]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-03.19.45:663][979]AssetCheck: /Game/Levels/Asset_Room Validating asset
+[2025.10.28-03.19.55:915][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
