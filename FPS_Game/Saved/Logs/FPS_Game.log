@@ -5387,3 +5387,361 @@ Are you sure you want to delete it?
 [2025.10.28-03.51.01:101][488]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6564.955078
 [2025.10.28-03.51.02:101][491]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.28-03.51.02:101][491]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6565.621582, Update Interval: 310.596649
+[2025.10.28-03.54.17:622][195]LogStreaming: Display: FlushAsyncLoading(574): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-03.54.18:334][225]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.10.28-03.54.27:915][252]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.28-03.54.28:569][276]LogEditorTransaction: Undo Add Component
+[2025.10.28-03.55.09:506][974]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.10.28-03.55.26:983][ 33]LogContentBrowser: Deferred new asset file creation: SK_Mannequin_AnimBlueprint
+[2025.10.28-03.55.26:990][ 33]LogContentBrowser: Creating deferred item: SK_Mannequin_AnimBlueprint
+[2025.10.28-03.55.27:061][ 34]LogContentBrowser: Renaming the item being created (Deferred Item: SK_Mannequin_AnimBlueprint).
+[2025.10.28-03.55.41:419][674]LogContentBrowser: Attempting asset rename: SK_Mannequin_AnimBlueprint -> Mannequin_ABP
+[2025.10.28-03.55.41:549][674]LogContentBrowser: End creating deferred item SK_Mannequin_AnimBlueprint
+[2025.10.28-03.55.41:550][674]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.10.28-03.55.55:914][867]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Meshes/Mannequin_ABP.Mannequin_ABP
+[2025.10.28-03.55.55:914][867]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.10.28-03.55.56:723][867]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.10.28-03.55.56:802][867]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.28-03.55.57:769][867]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.10.28-03.56.40:320][993]LogSlate: Took 0.038061 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.28-03.57.02:920][ 90]LogBlueprint: Warning: [AssetLog] /Game/Characters/Mannequins/Meshes/Mannequin_ABP.Mannequin_ABP: [Compiler] Entry node  Animation  is not connected to state
+[2025.10.28-03.57.02:921][ 90]LogBlueprint: Warning: [AssetLog] /Game/Characters/Mannequins/Meshes/Mannequin_ABP.Mannequin_ABP: [Compiler] There was no entry state connection in  Animation
+[2025.10.28-03.57.03:173][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.28-03.57.04:545][220]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6928.398926
+[2025.10.28-03.57.04:811][252]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-03.57.04:811][252]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6928.655762, Update Interval: 307.787720
+[2025.10.28-03.57.39:577][553]LogBlueprint: Warning: [AssetLog] /Game/Characters/Mannequins/Meshes/Mannequin_ABP.Mannequin_ABP: [Compiler] Entry node  Anims  is not connected to state
+[2025.10.28-03.57.39:578][553]LogBlueprint: Warning: [AssetLog] /Game/Characters/Mannequins/Meshes/Mannequin_ABP.Mannequin_ABP: [Compiler] There was no entry state connection in  Anims
+[2025.10.28-03.57.39:626][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.28-04.00.10:652][855]LogStreaming: Display: FlushAsyncLoading(575): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-04.00.11:306][855]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/DeathAnimationsPack/Demo/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2025.10.28-04.00.11:308][855]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/DeathAnimationsPack/Demo/Mannequins/Animations/Manny/MM_Idle.MM_Idle (Required Memory Estimate: 61.05 MB)
+[2025.10.28-04.00.11:818][855]LogAnimationCompression: Display: Storing compressed animation data for /Game/DeathAnimationsPack/Demo/Mannequins/Animations/Manny/MM_Idle.MM_Idle, at AnimationSequence/146458b105b41b6fc8f1f9d06e1f0ac4b92ec60a
+[2025.10.28-04.00.12:776][855]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn_Simple) ...
+[2025.10.28-04.00.12:792][855]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.10.28-04.00.12:801][855]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.28-04.00.13:194][855]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.10.28-04.00.14:026][855]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.10.28-04.00.14:406][855]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2025.10.28-04.00.14:554][855]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.10.28-04.00.18:107][901]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-04.00.18:107][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-04.00.18:189][901]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-04.00.18:189][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-04.00.18:528][901]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-04.00.18:528][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-04.00.18:727][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.28-04.00.46:953][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.10.28-04.00.52:382][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-04.00.52:424][367]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Meshes/Mannequin_ABP] ([2] browsable assets)...
+[2025.10.28-04.00.52:436][367]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Meshes/Mannequin_ABP.Mannequin_ABP]
+[2025.10.28-04.00.52:436][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/Mannequin_ABP]
+[2025.10.28-04.00.52:530][367]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/Mannequin_ABP
+[2025.10.28-04.00.52:530][367]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/Mannequin_ABPAFA4E59246ACC6173BFBDC893FE238B2.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Characters/Mannequins/Meshes/Mannequin_ABP.uasset'
+[2025.10.28-04.00.52:551][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 169.622 ms (total: 6.43 sec)
+[2025.10.28-04.00.52:594][367]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-04.00.52:594][367]LogContentValidation: Enabled validators:
+[2025.10.28-04.00.52:594][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-04.00.52:594][367]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-04.00.52:594][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-04.00.52:594][367]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-04.00.52:594][367]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-04.00.52:594][367]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-04.00.52:594][367]AssetCheck: /Game/Characters/Mannequins/Meshes/Mannequin_ABP Validating asset
+[2025.10.28-04.00.52:621][367]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.28-04.01.01:543][286]LogStreaming: Display: FlushAsyncLoading(577): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-04.01.01:631][286]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/DeathAnimationsPack/Demo/Mannequins/Animations/Quinn/MF_Idle.MF_Idle (Required Memory Estimate: 62.71 MB)
+[2025.10.28-04.01.01:893][286]LogAnimationCompression: Display: Storing compressed animation data for /Game/DeathAnimationsPack/Demo/Mannequins/Animations/Quinn/MF_Idle.MF_Idle, at AnimationSequence/73dd9dea219d9c2b6dec456a5a0a764ed9313654
+[2025.10.28-04.01.02:949][286]LogAnimation: Warning: PoseAsset /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_pose.Quinn_calf_l_pose is out-of-date with its source animation /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim BF93398AAD6D62DF112655B8ED3CF20E vs 5A55CD7B35467F4ADD5A6CC1B13D289D
+[2025.10.28-04.01.02:952][286]LogAnimation: Warning: PoseAsset /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_pose.Quinn_calf_r_pose is out-of-date with its source animation /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim D11B0FF3E4621425787FFC399F21396D vs 5468A5BB128F04D48B018D8E17FCBDC7
+[2025.10.28-04.01.02:955][286]LogAnimation: Warning: PoseAsset /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_pose.Quinn_clavicle_l_pose is out-of-date with its source animation /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim 90AAB2AD3EA4047FBE7D2A7CE3811DF5 vs 0437958046206607984E793A4BAB7891
+[2025.10.28-04.01.02:959][286]LogAnimation: Warning: PoseAsset /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_pose.Quinn_clavicle_r_pose is out-of-date with its source animation /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim DB3BE353909BB74F14506F1FB1BAB9A7 vs F280BF597FEBF701CAC3D3ACE24A4D61
+[2025.10.28-04.01.02:961][286]LogAnimation: Warning: PoseAsset /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_pose.Quinn_foot_l_pose is out-of-date with its source animation /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim 360E98B0F3906A082B5BA3BBA45E6C28 vs 3ADAF7669471D3A979FEF2C51472E452
+[2025.10.28-04.01.02:964][286]LogAnimation: Warning: PoseAsset /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_pose.Quinn_foot_r_pose is out-of-date with its source animation /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim 89448E65AE039761CBFCDEEC88DB6C82 vs 3852C8B628D1BB773F0D538C598631A8
+[2025.10.28-04.01.02:966][286]LogAnimation: Warning: PoseAsset /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_pose.Quinn_hand_l_pose is out-of-date with its source animation /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim 2A557BC6687C70264FEDCEEDAF3D74BB vs E6F07F6D3BD0BE6E891C648D2A318C30
+[2025.10.28-04.01.02:970][286]LogAnimation: Warning: PoseAsset /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_pose.Quinn_hand_r_pose is out-of-date with its source animation /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim 2B22506D82674CF44564930E27D311D6 vs D5991895CD282302D41EF7F9F364FBAC
+[2025.10.28-04.01.02:972][286]LogAnimation: Warning: PoseAsset /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_pose.Quinn_lowerarm_l_pose is out-of-date with its source animation /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim 985499B159549072FA9713240591A554 vs 427F2443D721BD92A5A93071F651FCEB
+[2025.10.28-04.01.02:975][286]LogAnimation: Warning: PoseAsset /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_pose.Quinn_lowerarm_r_pose is out-of-date with its source animation /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim D1FE6DF936268DDC00C0C17E7F8BC69F vs 34A548CA4E486B5139BF249993DFCA51
+[2025.10.28-04.01.02:978][286]LogAnimation: Warning: PoseAsset /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_pose.Quinn_thigh_l_pose is out-of-date with its source animation /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim 8FD955B082A11940A2C9F05A42AAC255 vs 6C031DEF5FE15B1E967C0D4F8A148FA8
+[2025.10.28-04.01.02:981][286]LogAnimation: Warning: PoseAsset /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_pose.Quinn_thigh_r_pose is out-of-date with its source animation /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim 402E6140D127A78E8862B816DFCBBE8B vs 632D5907227D4F63143AED122D634459
+[2025.10.28-04.01.02:984][286]LogAnimation: Warning: PoseAsset /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_pose.Quinn_upperarm_l_pose is out-of-date with its source animation /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim A497D2F503AC58C6B107EFCED5062AA7 vs C8F1E2335EFB744131777D8605D42BC5
+[2025.10.28-04.01.02:986][286]LogAnimation: Warning: PoseAsset /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_pose.Quinn_upperarm_r_pose is out-of-date with its source animation /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim 799E453D1F53700BCBF31ADE6FE99CE5 vs 45C9349E90CE819467A6664D9F8772D6
+[2025.10.28-04.01.02:995][286]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2025.10.28-04.01.03:121][286]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2025.10.28-04.01.06:258][286]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2025.10.28-04.01.06:258][286]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2025.10.28-04.01.09:619][286]LogSkeletalMesh: Skeletal mesh [/Game/DeathAnimationsPack/Demo/Mannequins/Meshes/SKM_Quinn.SKM_Quinn]: The derived data key is different after the build. Save the asset to avoid rebuilding it everytime the editor load it.
+[2025.10.28-04.01.09:633][286]LogSkeletalMesh: Built Skeletal Mesh [6.65s] /Game/DeathAnimationsPack/Demo/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2025.10.28-04.01.09:660][286]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim (Required Memory Estimate: 4.61 MB)
+[2025.10.28-04.01.09:660][286]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim (Required Memory Estimate: 5.51 MB)
+[2025.10.28-04.01.09:660][286]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim (Required Memory Estimate: 4.61 MB)
+[2025.10.28-04.01.09:660][286]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim (Required Memory Estimate: 6.41 MB)
+[2025.10.28-04.01.09:731][286]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim (Required Memory Estimate: 1.90 MB)
+[2025.10.28-04.01.09:731][286]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim (Required Memory Estimate: 5.51 MB)
+[2025.10.28-04.01.09:734][286]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim (Required Memory Estimate: 6.41 MB)
+[2025.10.28-04.01.09:734][286]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim (Required Memory Estimate: 1.45 MB)
+[2025.10.28-04.01.09:734][286]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim (Required Memory Estimate: 1.90 MB)
+[2025.10.28-04.01.09:754][286]LogAnimationCompression: Display: Storing compressed animation data for /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim, at AnimationSequence/f687cf3d8844ce4ebdb80698653cb4896263019f
+[2025.10.28-04.01.09:755][286]LogAnimationCompression: Display: Storing compressed animation data for /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim, at AnimationSequence/307ad2aea7454f3ed300336ad2742c94a0079d79
+[2025.10.28-04.01.09:760][286]LogAnimationCompression: Display: Storing compressed animation data for /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim, at AnimationSequence/e944c7e75e1880e762116b1ae7d6e3afe00bc835
+[2025.10.28-04.01.09:762][286]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim (Required Memory Estimate: 1.45 MB)
+[2025.10.28-04.01.09:763][286]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim (Required Memory Estimate: 2.35 MB)
+[2025.10.28-04.01.09:763][286]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim (Required Memory Estimate: 2.35 MB)
+[2025.10.28-04.01.09:766][286]LogAnimationCompression: Display: Storing compressed animation data for /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim, at AnimationSequence/30ffa0c4e583f685a5733ee9dffe76ba19b513d7
+[2025.10.28-04.01.09:781][286]LogAnimationCompression: Display: Storing compressed animation data for /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim, at AnimationSequence/9d3136d4eacc68b6ee7a5ab5988d72786a44956c
+[2025.10.28-04.01.09:782][286]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim (Required Memory Estimate: 2.80 MB)
+[2025.10.28-04.01.09:785][286]LogAnimationCompression: Display: Storing compressed animation data for /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim, at AnimationSequence/c1fb922306efb612bb61ff6ae314729c568ca595
+[2025.10.28-04.01.09:794][286]LogAnimationCompression: Display: Storing compressed animation data for /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim, at AnimationSequence/8d75295394a51a0c3647df94b06e7cba838e9317
+[2025.10.28-04.01.09:798][286]LogAnimationCompression: Display: Storing compressed animation data for /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim, at AnimationSequence/3bf0a830348c4981de2e3f4dd8f0db0924647126
+[2025.10.28-04.01.09:819][286]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim (Required Memory Estimate: 2.80 MB)
+[2025.10.28-04.01.09:831][286]LogAnimationCompression: Display: Storing compressed animation data for /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim, at AnimationSequence/396b7f150f0c6354c81de1de1df16c397bed8e4d
+[2025.10.28-04.01.09:849][286]LogAnimationCompression: Display: Storing compressed animation data for /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim, at AnimationSequence/00c2707198fb99217454b40234e8e43b7efd3e78
+[2025.10.28-04.01.09:858][286]LogAnimationCompression: Display: Storing compressed animation data for /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim, at AnimationSequence/c2edcf6c380c5df3c6cc2be71e97ae2941e9c91a
+[2025.10.28-04.01.09:859][286]LogAnimationCompression: Display: Storing compressed animation data for /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim, at AnimationSequence/6cc1c91de2fedd431b1dde4928b4831969cf7dac
+[2025.10.28-04.01.09:870][286]LogAnimationCompression: Display: Storing compressed animation data for /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim, at AnimationSequence/eefa35d2909120de0205bc7c48cd7689aef5160a
+[2025.10.28-04.01.09:890][286]LogAnimationCompression: Display: Storing compressed animation data for /Game/DeathAnimationsPack/Demo/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim, at AnimationSequence/845eec25003da98a4668e1c0af9e0b21cbbcd657
+[2025.10.28-04.01.57:158][179]Cmd: TRANSACTION UNDO
+[2025.10.28-04.01.57:158][179]LogEditorTransaction: Undo Create Pin Link
+[2025.10.28-04.01.57:490][179]LogDerivedDataCache: C:/Users/TayzorBlayzor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.28-04.01.57:696][179]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.28-04.02.23:941][ 77]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.10.28-04.02.23:964][ 78]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2025.10.28-04.02.24:008][ 79]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2025.10.28-04.02.48:880][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: ================================================
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Total job queries 1,450, among them cache hits 731 (50.41%), DDC hits 523 (36.07%), Duplicates 109 (7.52%)
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Tracking 610 distinct input hashes that result in 465 distinct outputs (76.23%)
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: RAM used: 5.01 MiB of 819.20 MiB budget. Usage: 0.61%
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Shaders Compiled: 87
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Jobs assigned 87, completed 87 (100%)
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Average time worker was idle: 717.23 s
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Time job spent in pending queue: average 0.62 s, longest 2.71 s
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Job execution time: average 1.85 s, max 8.15 s
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Job life time (pending + execution): average 2.47 s, max 8.18
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Shader code size: total 874.955 KiB, numShaders 89, average 9.83 KiB, min 2.734 KiB, max 16.305 KiB
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 29.44 s
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Jobs were issued in 87 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Average processing rate: 2.96 jobs/sec
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Total thread time: 50.789 s
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Total thread preprocess time: 20.763 s
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Percentage time preprocessing: 40.88%
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Effective parallelization: 1.73 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.172533
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    7 times, average 1.48 sec, max 1.74 sec, min 1.15 sec)
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    2 times, average 0.86 sec, max 0.86 sec, min 0.85 sec)
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   10 times, average 0.76 sec, max 0.85 sec, min 0.72 sec)
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 0.54 sec, max 0.54 sec, min 0.53 sec)
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 20.35% of total time (compiled    7 times, average 1.48 sec, max 1.74 sec, min 1.15 sec)
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.12% of total time (compiled   18 times, average 0.48 sec, max 0.70 sec, min 0.32 sec)
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 14.99% of total time (compiled   10 times, average 0.76 sec, max 0.85 sec, min 0.72 sec)
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display:                                                 FLumenCardPS - 11.96% of total time (compiled   16 times, average 0.38 sec, max 0.54 sec, min 0.27 sec)
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.96% of total time (compiled   11 times, average 0.46 sec, max 0.52 sec, min 0.35 sec)
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: === Material stats ===
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Materials Translated:    390
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Material Total Translate Time: 1.17 s
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Material Translation Only: 0.30 s (25%)
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: Material Cache Hits: 14 (4%)
+[2025.10.28-04.02.49:217][789]LogShaderCompilers: Display: ================================================
+[2025.10.28-04.02.49:524][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-04.02.49:566][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Actors/BP_Enemy] ([2] browsable assets)...
+[2025.10.28-04.02.49:576][822]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/BP_Enemy.BP_Enemy]
+[2025.10.28-04.02.49:576][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/BP_Enemy]
+[2025.10.28-04.02.49:576][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Enemy" FILE="../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Actors/BP_Enemy.uasset" SILENT=true
+[2025.10.28-04.02.49:591][822]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/BP_Enemy
+[2025.10.28-04.02.49:591][822]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/BP_EnemyBE592ADF4A2BC219E10754BFBDB4A80B.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Actors/BP_Enemy.uasset'
+[2025.10.28-04.02.49:598][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.395 ms (total: 6.51 sec)
+[2025.10.28-04.02.49:646][822]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-04.02.49:646][822]LogContentValidation: Enabled validators:
+[2025.10.28-04.02.49:646][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-04.02.49:646][822]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-04.02.49:646][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-04.02.49:646][822]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-04.02.49:646][822]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-04.02.49:646][822]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-04.02.49:646][822]AssetCheck: /Game/Blueprints/Actors/BP_Enemy Validating asset
+[2025.10.28-04.02.52:018][ 88]LogBlueprint: Warning: [AssetLog] E:\UnrealProjects\FunkyFishGameRepository\FPS_Game\Content\Characters\Mannequins\Meshes\Mannequin_ABP.uasset: [Compiler] Entry node  Anims  is not connected to state
+[2025.10.28-04.02.52:018][ 88]LogBlueprint: Warning: [AssetLog] E:\UnrealProjects\FunkyFishGameRepository\FPS_Game\Content\Characters\Mannequins\Meshes\Mannequin_ABP.uasset: [Compiler] There was no entry state connection in  Anims
+[2025.10.28-04.02.52:069][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.28-04.02.53:606][254]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-04.02.53:606][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-04.02.53:654][254]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-04.02.53:654][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-04.02.53:759][254]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-04.02.53:759][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-04.02.53:792][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.10.28-04.03.12:434][117]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7296.299316
+[2025.10.28-04.03.12:710][143]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-04.03.12:710][143]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7296.565918, Update Interval: 350.597260
+[2025.10.28-04.03.50:459][378]LogStreaming: Display: FlushAsyncLoading(579): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-04.03.50:466][378]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Walk_cycle_AnimsSet/Demo/ABP_Quinn.ABP_Quinn
+[2025.10.28-04.03.50:466][378]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2025.10.28-04.03.50:633][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Materials/Functions/CA_Mannequin.CA_Mannequin (RGBA16F, 64x64 x1x1x1) (Required Memory Estimate: 1.177074 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.50:703][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.T_Quinn_01_ASAOMASK_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.50:717][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.T_Quinn_01_CCRCCPlastic_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.50:722][378]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn_Simple) ...
+[2025.10.28-04.03.50:729][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Quinn/T_Quinn_01ID_BN.T_Quinn_01ID_BN (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 475.499988 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.51:154][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Quinn/T_Quinn_01ID_Tan.T_Quinn_01ID_Tan (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 475.499988 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.51:210][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Quinn/T_Quinn_01ID_N.T_Quinn_01ID_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 475.499988 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.51:292][378]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2025.10.28-04.03.51:308][378]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.28-04.03.51:325][378]LogTexture: Display: Waiting for textures to be ready 4/16 (/Game/Walk_cycle_AnimsSet/Demo/Textures/Quinn/T_Quinn_01ID_N) ...
+[2025.10.28-04.03.51:335][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.T_Quinn_02_ASAOMASK_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.51:373][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Quinn/T_Quinn_01ID_MSR_MSK.T_Quinn_01ID_MSR_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.51:395][378]LogTexture: Display: Waiting for textures to be ready 7/16 (/Game/Walk_cycle_AnimsSet/Demo/Textures/Quinn/T_Quinn_01ID_MSR_MSK) ...
+[2025.10.28-04.03.51:402][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Shared/T_UE_Logo_M.T_UE_Logo_M (G8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.999993 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.51:426][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Quinn/T_Quinn_01ID_D.T_Quinn_01ID_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.51:556][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Quinn/T_Quinn_02ID_MSR_MSK.T_Quinn_02ID_MSR_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.51:677][378]LogTexture: Display: Waiting for textures to be ready 10/16 (/Game/Walk_cycle_AnimsSet/Demo/Textures/Quinn/T_Quinn_01ID_D) ...
+[2025.10.28-04.03.51:709][378]LogTexture: Display: Waiting for textures to be ready 12/16 (/Game/Walk_cycle_AnimsSet/Demo/Textures/Quinn/T_Quinn_02ID_D) ...
+[2025.10.28-04.03.51:739][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Quinn/T_Quinn_02ID_D.T_Quinn_02ID_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.51:743][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Quinn/T_Quinn_02ID_Tan.T_Quinn_02ID_Tan (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 475.499988 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.51:840][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.T_Quinn_02_CCRCCPlastic_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.51:958][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Quinn/T_Quinn_02ID_BN.T_Quinn_02ID_BN (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 475.499988 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.52:003][378]LogTexture: Display: Waiting for textures to be ready 13/16 (/Game/Walk_cycle_AnimsSet/Demo/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK) ...
+[2025.10.28-04.03.52:051][378]LogTexture: Display: Waiting for textures to be ready 15/16 (/Game/Walk_cycle_AnimsSet/Demo/Textures/Quinn/T_Quinn_02ID_BN) ...
+[2025.10.28-04.03.52:087][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.T_Manny_01_CCRCCPlastic_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.52:096][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Manny/T_Manny_01_BN.T_Manny_01_BN (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 475.499988 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.52:186][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Manny/T_Manny_01_Tan.T_Manny_01_Tan (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 475.499988 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.52:274][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Manny/T_Manny_01_MSR_MSK.T_Manny_01_MSR_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.52:348][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Manny/T_Manny_01_N.T_Manny_01_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 475.499988 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.52:505][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Manny/T_Manny_01_D.T_Manny_01_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.52:549][378]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.T_Manny_01_ASAOPMASK_MSK (TFO_DXT1, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.10.28-04.03.52:813][378]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2025.10.28-04.03.53:151][378]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2025.10.28-04.03.53:222][379]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2025.10.28-04.06.28:050][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.10.28-04.06.28:051][484]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Asset_Room' took 0.045
+[2025.10.28-04.06.28:170][484]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Walk_cycle_AnimsSet/Demo/ABP_Quinn] ([2] browsable assets)...
+[2025.10.28-04.06.28:182][484]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Walk_cycle_AnimsSet/Demo/ABP_Quinn.ABP_Quinn]
+[2025.10.28-04.06.28:182][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/Walk_cycle_AnimsSet/Demo/ABP_Quinn]
+[2025.10.28-04.06.28:219][484]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Walk_cycle_AnimsSet/Demo/ABP_Quinn_Auto4
+[2025.10.28-04.06.28:219][484]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/ABP_Quinn_Auto4DA8847B74619B6971B61E6ADE1EB5CDD.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/Autosaves/Game/Walk_cycle_AnimsSet/Demo/ABP_Quinn_Auto4.uasset'
+[2025.10.28-04.06.28:219][484]LogFileHelpers: Auto-saving content packages took 0.168
+[2025.10.28-04.07.15:738][842]LogStreaming: Display: FlushAsyncLoading(581): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-04.07.15:873][842]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Walk_cycle_AnimsSet/Animation/Anim_ZombieWalk.Anim_ZombieWalk (Required Memory Estimate: 4.01 MB)
+[2025.10.28-04.07.16:190][842]LogAnimationCompression: Display: Storing compressed animation data for /Game/Walk_cycle_AnimsSet/Animation/Anim_ZombieWalk.Anim_ZombieWalk, at AnimationSequence/11f8167a592eccfd0bc50b18c8cd5d8acf623552
+[2025.10.28-04.07.16:353][842]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny) ...
+[2025.10.28-04.07.16:440][842]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.T_Manny_02_ASAOPMASK_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.10.28-04.07.16:578][842]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Manny/T_Manny_02_MSR_MSK.T_Manny_02_MSR_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.10.28-04.07.16:645][842]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Manny/T_Manny_02_D.T_Manny_02_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.10.28-04.07.16:795][842]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Manny/T_Manny_02_BN.T_Manny_02_BN (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 475.499988 MB), EncodeSpeed: Fast
+[2025.10.28-04.07.16:867][842]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Manny/T_Manny_02_N.T_Manny_02_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 475.499988 MB), EncodeSpeed: Fast
+[2025.10.28-04.07.16:946][842]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.T_Manny_02_CCRCCPlastic_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.10.28-04.07.17:087][842]LogSkeletalMesh: Building Skeletal Mesh SKM_Manny...
+[2025.10.28-04.07.18:294][842]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2025.10.28-04.07.18:294][842]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2025.10.28-04.07.21:632][842]LogSkeletalMesh: Skeletal mesh [/Game/Walk_cycle_AnimsSet/Demo/Meshes/SKM_Manny.SKM_Manny]: The derived data key is different after the build. Save the asset to avoid rebuilding it everytime the editor load it.
+[2025.10.28-04.07.21:647][842]LogSkeletalMesh: Built Skeletal Mesh [4.57s] /Game/Walk_cycle_AnimsSet/Demo/Meshes/SKM_Manny.SKM_Manny
+[2025.10.28-04.07.21:708][842]LogTexture: Display: Building textures: /Game/Walk_cycle_AnimsSet/Demo/Textures/Manny/T_Manny_02_Tan.T_Manny_02_Tan (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 475.499988 MB), EncodeSpeed: Fast
+[2025.10.28-04.07.31:664][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.10.28-04.08.05:089][ 13]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2025.10.28-04.08.05:108][ 14]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2025.10.28-04.08.35:421][901]LogStreaming: Display: FlushAsyncLoading(583): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-04.08.35:915][901]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny_Simple) ...
+[2025.10.28-04.08.35:993][901]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2025.10.28-04.08.39:115][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.28-04.08.39:874][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-04.08.39:920][323]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Actors/BP_Enemy] ([2] browsable assets)...
+[2025.10.28-04.08.39:932][323]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/BP_Enemy.BP_Enemy]
+[2025.10.28-04.08.39:932][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/BP_Enemy]
+[2025.10.28-04.08.39:932][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Enemy" FILE="../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Actors/BP_Enemy.uasset" SILENT=true
+[2025.10.28-04.08.39:949][323]LogSavePackage: Moving output files for package: /Game/Blueprints/Actors/BP_Enemy
+[2025.10.28-04.08.39:949][323]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/BP_Enemy6CD47307472E8FCF759BE18A32E41042.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Actors/BP_Enemy.uasset'
+[2025.10.28-04.08.39:957][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.047 ms (total: 6.59 sec)
+[2025.10.28-04.08.40:012][323]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-04.08.40:012][323]LogContentValidation: Enabled validators:
+[2025.10.28-04.08.40:012][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-04.08.40:012][323]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-04.08.40:012][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-04.08.40:012][323]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-04.08.40:012][323]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-04.08.40:012][323]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-04.08.40:012][323]AssetCheck: /Game/Blueprints/Actors/BP_Enemy Validating asset
+[2025.10.28-04.08.49:868][863]LogStreaming: Display: FlushAsyncLoading(584): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-04.08.49:897][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.10.28-04.08.50:134][863]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_55
+[2025.10.28-04.08.51:190][863]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.28-04.08.51:425][863]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-04.08.51:425][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-04.08.51:448][863]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-04.08.51:448][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-04.08.51:480][863]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-04.08.51:480][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-04.08.51:531][863]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Walk_cycle_AnimsSet/Demo/ABP_Quinn.ABP_Quinn
+	Asset Type: AnimBlueprint
+	Asset Name: /Game/Walk_cycle_AnimsSet/Demo/ABP_Manny.ABP_Manny
+	Asset Type: AnimBlueprint
+[2025.10.28-04.08.52:341][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.10.28-04.08.52:376][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.10.28-04.08.52:406][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.28-04.08.52:444][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.10.28-04.08.52:474][863]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.28-04.09.48:645][589]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7692.502930
+[2025.10.28-04.09.48:927][606]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-04.09.48:927][606]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7692.773438, Update Interval: 334.423035
+[2025.10.28-04.09.51:829][855]LogContentBrowser: Deferred new asset file creation: SK_Mannequin_AnimBlueprint
+[2025.10.28-04.09.51:838][855]LogContentBrowser: Creating deferred item: SK_Mannequin_AnimBlueprint
+[2025.10.28-04.09.51:850][856]LogContentBrowser: Renaming the item being created (Deferred Item: SK_Mannequin_AnimBlueprint).
+[2025.10.28-04.10.05:875][446]LogContentBrowser: Attempting asset rename: SK_Mannequin_AnimBlueprint -> Solider_ABP
+[2025.10.28-04.10.05:883][446]LogContentBrowser: End creating deferred item SK_Mannequin_AnimBlueprint
+[2025.10.28-04.10.05:884][446]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_56
+[2025.10.28-04.10.24:867][421]LogContentBrowser: Attempting asset rename: Solider_ABP -> Soldier_ABP
+[2025.10.28-04.10.24:932][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-04.10.24:932][421]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Walk_cycle_AnimsSet/Demo/Meshes/Soldier_ABP] ([2] browsable assets)...
+[2025.10.28-04.10.24:932][421]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_57
+[2025.10.28-04.10.24:951][421]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Walk_cycle_AnimsSet/Demo/Meshes/Soldier_ABP.Soldier_ABP]
+[2025.10.28-04.10.24:951][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Walk_cycle_AnimsSet/Demo/Meshes/Soldier_ABP]
+[2025.10.28-04.10.24:965][421]LogSavePackage: Moving output files for package: /Game/Walk_cycle_AnimsSet/Demo/Meshes/Soldier_ABP
+[2025.10.28-04.10.24:965][421]LogSavePackage: Moving '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/Soldier_ABP2E2CA58D43D5BF5BC54F3BAADD362971.tmp' to '../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Content/Walk_cycle_AnimsSet/Demo/Meshes/Soldier_ABP.uasset'
+[2025.10.28-04.10.24:971][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.946 ms (total: 6.63 sec)
+[2025.10.28-04.10.25:016][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.28-04.10.25:049][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.28-04.10.25:078][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.10.28-04.10.25:129][421]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-04.10.25:129][421]LogContentValidation: Enabled validators:
+[2025.10.28-04.10.25:129][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-04.10.25:129][421]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-04.10.25:129][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-04.10.25:129][421]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-04.10.25:129][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-04.10.25:129][421]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-04.10.25:129][421]AssetCheck: /Game/Walk_cycle_AnimsSet/Demo/Meshes/Soldier_ABP Validating asset
+[2025.10.28-04.10.25:178][421]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../UnrealProjects/FunkyFishGameRepository/FPS_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.28-04.10.26:512][534]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Walk_cycle_AnimsSet/Demo/Meshes/Soldier_ABP.Soldier_ABP
+[2025.10.28-04.10.26:513][534]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_58
+[2025.10.28-04.10.26:520][534]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_59
+[2025.10.28-04.10.26:528][534]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_59:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.28-04.10.26:847][534]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_60
+[2025.10.28-04.10.39:928][847]LogBlueprint: Warning: [AssetLog] E:\UnrealProjects\FunkyFishGameRepository\FPS_Game\Content\Walk_cycle_AnimsSet\Demo\Meshes\Soldier_ABP.uasset: [Compiler] Entry node  Anims  is not connected to state
+[2025.10.28-04.10.39:928][847]LogBlueprint: Warning: [AssetLog] E:\UnrealProjects\FunkyFishGameRepository\FPS_Game\Content\Walk_cycle_AnimsSet\Demo\Meshes\Soldier_ABP.uasset: [Compiler] There was no entry state connection in  Anims
+[2025.10.28-04.10.39:996][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.28-04.12.02:196][156]LogStreaming: Display: FlushAsyncLoading(585): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-04.12.02:560][156]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Walk_cycle_AnimsSet/Animation/Anim_PistolForwardWalk.Anim_PistolForwardWalk (Required Memory Estimate: 1.03 MB)
+[2025.10.28-04.12.02:947][156]LogAnimationCompression: Display: Storing compressed animation data for /Game/Walk_cycle_AnimsSet/Animation/Anim_PistolForwardWalk.Anim_PistolForwardWalk, at AnimationSequence/e15ffe03bbf95b4e99d50de6d4abaddad23900f4
+[2025.10.28-04.13.01:719][758]LogFab: Display: Logging in using persist
+[2025.10.28-04.13.02:023][793]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: dce...171 Access[Expires: 2025.10.28-06.13.03 Remaining: 7200.19] Refresh[Expires: 2026-04-26T02:32:46.841Z Remaining: 15545983.84] State: Valid
+[2025.10.28-04.13.02:030][794]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2025.10.28-04.13.02:313][828]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2025.10.28-04.13.02:313][828]LogFab: Display: User logged in
+[2025.10.28-04.13.02:313][828]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2025.10.28-04.13.24:142][864]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.10.28-04.13.24:142][864]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/.
+[2025.10.28-04.13.25:452][940]LogFab: Display: Logging in using persist
+[2025.10.28-04.13.25:774][961]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: dce...171 Access[Expires: 2025.10.28-06.13.26 Remaining: 7200.95] Refresh[Expires: 2026-04-26T02:32:46.841Z Remaining: 15545960.84] State: Valid
+[2025.10.28-04.13.25:782][962]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2025.10.28-04.13.26:065][996]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2025.10.28-04.13.26:065][996]LogFab: Display: User logged in
+[2025.10.28-04.13.26:065][996]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2025.10.28-04.14.26:482][725]LogFab: Display: Asset Type = unreal-engine
+[2025.10.28-04.14.26:482][725]LogFab: Display: Is Quixel = 0
+[2025.10.28-04.14.26:482][725]LogFab: Display: Base Url https://fastly-download.epicgames.com/Builds/Rocket/Automated/Skeleton9fa31ebee803V1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/Skeleton9fa31ebee803V1/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/Skeleton9fa31ebee803V1/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/Skeleton9fa31ebee803V1/CloudDir
+[2025.10.28-04.14.41:913][431]LogSlate: Window 'Content Browser' being destroyed
+[2025.10.28-04.14.41:920][431]LogSlate: Window 'Content Browser' being destroyed
