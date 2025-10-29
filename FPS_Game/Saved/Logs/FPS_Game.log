@@ -7781,3 +7781,264 @@ Continue: Skip saving this asset only.
 [2025.10.28-23.49.43:889][914]AssetCheck: /Game/ImportedFolders/goblin/textures/Axe_tga Validating asset
 [2025.10.28-23.49.43:889][914]AssetCheck: /Game/ImportedFolders/goblin/textures/Orc_tga Validating asset
 [2025.10.28-23.49.43:913][914]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.28-23.53.00:450][620]LogDerivedDataCache: C:/Users/New owner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.013 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.28-23.53.37:433][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.28-23.53.37:440][399]LogStreaming: Display: FlushAsyncLoading(682): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-23.53.37:951][399]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_3C5C43F4 (Required Memory Estimate: 3.310109 MB)...
+[2025.10.28-23.53.37:951][399]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_91F5DFEA (Required Memory Estimate: 5.271856 MB)...
+[2025.10.28-23.53.37:951][399]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_AF33C321 (Required Memory Estimate: 5.209685 MB)...
+[2025.10.28-23.53.37:951][399]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_8920BEDC (Required Memory Estimate: 1.707068 MB)...
+[2025.10.28-23.53.37:956][399]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_C097BA9E (Required Memory Estimate: 3.840141 MB)...
+[2025.10.28-23.53.37:959][399]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_8920BEDC.CubeGridToolOutput_8920BEDC
+[2025.10.28-23.53.37:963][399]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_3C5C43F4.CubeGridToolOutput_3C5C43F4
+[2025.10.28-23.53.37:967][399]LogStaticMesh: Display: Building static mesh Room (Required Memory Estimate: 1.881825 MB)...
+[2025.10.28-23.53.37:971][399]LogStaticMesh: Built static mesh [0.02s] /Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_AF33C321.CubeGridToolOutput_AF33C321
+[2025.10.28-23.53.37:972][399]LogStaticMesh: Built static mesh [0.02s] /Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_C097BA9E.CubeGridToolOutput_C097BA9E
+[2025.10.28-23.53.37:972][399]LogStaticMesh: Built static mesh [0.02s] /Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_91F5DFEA.CubeGridToolOutput_91F5DFEA
+[2025.10.28-23.53.37:973][399]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/Newowner/Room.Room
+[2025.10.28-23.53.37:977][399]LogStaticMesh: Display: Building static mesh Room2 (Required Memory Estimate: 3.783565 MB)...
+[2025.10.28-23.53.37:978][399]LogStaticMesh: Display: Building static mesh Room3 (Required Memory Estimate: 8.640652 MB)...
+[2025.10.28-23.53.37:986][399]LogStaticMesh: Display: Building static mesh Room5 (Required Memory Estimate: 4.340767 MB)...
+[2025.10.28-23.53.37:987][399]LogStaticMesh: Display: Building static mesh Room4 (Required Memory Estimate: 5.191754 MB)...
+[2025.10.28-23.53.37:987][399]LogStaticMesh: Display: Building static mesh Room6 (Required Memory Estimate: 5.239486 MB)...
+[2025.10.28-23.53.37:990][399]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/Newowner/Room2.Room2
+[2025.10.28-23.53.38:028][399]LogStaticMesh: Built static mesh [0.04s] /Game/Levels/_GENERATED/Newowner/Room4.Room4
+[2025.10.28-23.53.38:028][399]LogStaticMesh: Built static mesh [0.04s] /Game/Levels/_GENERATED/Newowner/Room5.Room5
+[2025.10.28-23.53.38:028][399]LogStaticMesh: Built static mesh [0.04s] /Game/Levels/_GENERATED/Newowner/Room6.Room6
+[2025.10.28-23.53.38:029][399]LogStaticMesh: Built static mesh [0.05s] /Game/Levels/_GENERATED/Newowner/Room3.Room3
+[2025.10.28-23.53.38:411][399]LogChaosDD: Creating Chaos Debug Draw Scene for world MapRooms
+[2025.10.28-23.53.38:539][399]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MapRooms.MapRooms
+[2025.10.28-23.53.38:631][399]Cmd: MAP LOAD FILE="C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Levels/MapRooms.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.10.28-23.53.38:999][399]LogWorld: UWorld::CleanupWorld for TestingZone, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-23.53.39:261][399]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.28-23.53.39:265][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-23.53.39:735][399]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.28-23.53.40:258][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.10.28-23.53.50:368][399]LogMeshUtilities: Finished distance field build in 10.1s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 56% occupied, 0 triangles, Room5
+[2025.10.28-23.53.51:476][399]LogMeshUtilities: Finished distance field build in 11.2s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 65% occupied, 0 triangles, Room4
+[2025.10.28-23.53.51:608][399]LogMeshUtilities: Finished distance field build in 11.3s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 65% occupied, 0 triangles, Room2
+[2025.10.28-23.53.51:780][399]LogMeshUtilities: Finished distance field build in 11.5s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 68% occupied, 0 triangles, CubeGridToolOutput_C097BA9E
+[2025.10.28-23.53.51:935][399]LogMeshUtilities: Finished distance field build in 11.7s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 68% occupied, 0 triangles, Room3
+[2025.10.28-23.53.54:321][399]LogMeshUtilities: Finished distance field build in 14.1s - 126x126x126 sparse distance field, 2.9Mb total, 0.1Mb always loaded, 85% occupied, 0 triangles, Room
+[2025.10.28-23.53.54:403][399]LogMeshUtilities: Finished distance field build in 2.6s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 39% occupied, 0 triangles, CubeGridToolOutput_91F5DFEA
+[2025.10.28-23.53.57:842][399]LogMeshUtilities: Finished distance field build in 6.1s - 126x126x126 sparse distance field, 2.8Mb total, 0.1Mb always loaded, 83% occupied, 0 triangles, CubeGridToolOutput_8920BEDC
+[2025.10.28-23.53.59:455][399]LogMeshUtilities: Finished distance field build in 5.0s - 126x126x126 sparse distance field, 2.8Mb total, 0.1Mb always loaded, 84% occupied, 0 triangles, Room6
+[2025.10.28-23.54.02:856][399]LogMeshUtilities: Finished distance field build in 4.7s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 71% occupied, 0 triangles, CubeGridToolOutput_3C5C43F4
+[2025.10.28-23.54.02:917][399]LogMeshUtilities: Finished distance field build in 4.8s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 70% occupied, 0 triangles, CubeGridToolOutput_AF33C321
+[2025.10.28-23.54.03:257][399]LogWorld: UWorld::CleanupWorld for MapRooms, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-23.54.03:258][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-23.54.03:258][399]LogWorld: UWorld::CleanupWorld for Primitive_Characters_Pack_Demo, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-23.54.03:260][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-23.54.03:262][399]LogWorld: UWorld::CleanupWorld for Animation, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-23.54.03:263][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-23.54.03:264][399]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-23.54.03:265][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-23.54.03:355][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.28-23.54.03:376][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.28-23.54.03:387][399]LogAudio: Display: Audio Device (ID: 1) registered with world 'MapRooms'.
+[2025.10.28-23.54.03:391][399]LogChaosDD: Creating Chaos Debug Draw Scene for world MapRooms
+[2025.10.28-23.54.04:039][399]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2025.10.28-23.54.04:237][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.28-23.54.04:274][399]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.28-23.54.04:275][399]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.365ms to complete.
+[2025.10.28-23.54.04:772][400]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.28-23.54.39:923][ 61]LogStreaming: Display: FlushAsyncLoading(684): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-23.54.42:758][148]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.28-23.54.42:862][148]LogStreaming: Display: FlushAsyncLoading(695): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.28-23.54.43:106][148]LogInteractiveToolsContext: Warning: Creating new asset.
+[2025.10.28-23.55.11:462][467]Cmd: TRANSACTION UNDO
+[2025.10.28-23.55.11:462][467]LogEditorTransaction: Undo Block Tool Change
+[2025.10.28-23.55.16:410][699]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3718.255127
+[2025.10.28-23.55.16:689][714]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-23.55.16:689][714]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3718.516357, Update Interval: 308.122803
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: ================================================
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Total job queries 1,332, among them cache hits 471 (35.36%), DDC hits 600 (45.05%), Duplicates 188 (14.11%)
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Tracking 673 distinct input hashes that result in 497 distinct outputs (73.85%)
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: RAM used: 5.15 MiB of 1.60 GiB budget. Usage: 0.31%
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Shaders Compiled: 73
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Jobs assigned 73, completed 73 (100%)
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Average time worker was idle: 412.74 s
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Time job spent in pending queue: average 1.32 s, longest 6.60 s
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Job execution time: average 2.50 s, max 8.35 s
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Job life time (pending + execution): average 3.82 s, max 9.85
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Shader code size: total 588.835 KiB, numShaders 83, average 7.094 KiB, min 1.727 KiB, max 14.152 KiB
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 36.90 s
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Jobs were issued in 73 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Average processing rate: 1.98 jobs/sec
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Total thread time: 82.115 s
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Total thread preprocess time: 21.754 s
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Percentage time preprocessing: 26.49%
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Effective parallelization: 2.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.278154
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 1.82 sec, max 1.97 sec, min 1.67 sec)
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 1.77 sec, max 1.77 sec, min 1.77 sec)
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 1.68 sec, max 2.70 sec, min 1.28 sec)
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    3 times, average 1.53 sec, max 1.88 sec, min 0.95 sec)
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    7 times, average 1.35 sec, max 2.40 sec, min 0.99 sec)
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.60% of total time (compiled   12 times, average 0.86 sec, max 1.25 sec, min 0.41 sec)
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display:                                                  FVelocityPS - 11.48% of total time (compiled    7 times, average 1.35 sec, max 2.40 sec, min 0.99 sec)
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect - 8.58% of total time (compiled    7 times, average 1.01 sec, max 1.22 sec, min 0.68 sec)
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.19% of total time (compiled    4 times, average 1.68 sec, max 2.70 sec, min 1.28 sec)
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display:             TShadowDepthPSPixelShadowDepth_OnePassPointLight - 6.93% of total time (compiled    7 times, average 0.81 sec, max 0.96 sec, min 0.72 sec)
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: === Material stats ===
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Materials Translated:    248
+[2025.10.28-23.56.34:477][507]LogShaderCompilers: Display: Material Total Translate Time: 1.28 s
+[2025.10.28-23.56.34:478][507]LogShaderCompilers: Display: Material Translation Only: 0.50 s (39%)
+[2025.10.28-23.56.34:478][507]LogShaderCompilers: Display: Material DDC Serialization Only: 0.12 s (9%)
+[2025.10.28-23.56.34:478][507]LogShaderCompilers: Display: Material Cache Hits: 17 (7%)
+[2025.10.28-23.56.34:478][507]LogShaderCompilers: Display: ================================================
+[2025.10.29-00.01.03:905][268]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4065.747559
+[2025.10.29-00.01.04:202][283]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.29-00.01.04:202][283]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4066.026367, Update Interval: 306.916107
+[2025.10.29-00.05.07:097][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_3C4B3DE4.CubeGridToolOutput_3C4B3DE4
+[2025.10.29-00.05.07:098][753]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_3C4B3DE4 (Required Memory Estimate: 3.418316 MB)...
+[2025.10.29-00.05.07:111][753]LogStaticMesh: Built static mesh [0.02s] /Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_3C4B3DE4.CubeGridToolOutput_3C4B3DE4
+[2025.10.29-00.05.07:115][753]LogStaticMesh: Warning: CubeGridToolOutput_3C4B3DE4 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.29-00.05.07:115][753]LogStaticMesh: Warning: CubeGridToolOutput_3C4B3DE4 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.29-00.05.07:202][753]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_3C4B3DE4.CubeGridToolOutput_3C4B3DE4 as actor: StaticMeshActor /Game/Levels/MapRooms.MapRooms:PersistentLevel.StaticMeshActor_7
+[2025.10.29-00.05.10:370][753]LogMeshUtilities: Finished distance field build in 3.1s - 126x126x126 sparse distance field, 2.9Mb total, 0.1Mb always loaded, 86% occupied, 0 triangles, CubeGridToolOutput_3C4B3DE4
+[2025.10.29-00.05.14:900][915]LogMeshUtilities: Finished distance field build in 4.5s - 126x126x126 sparse distance field, 2.9Mb total, 0.1Mb always loaded, 86% occupied, 0 triangles, CubeGridToolOutput_3C4B3DE4
+[2025.10.29-00.05.35:205][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.29-00.05.35:274][553]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/MapRooms_Auto2
+[2025.10.29-00.05.35:274][553]LogSavePackage: Moving 'C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Saved/MapRooms_Auto25CA947644C56D39D3087748664D04C9A.tmp' to 'C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Saved/Autosaves/Game/Levels/MapRooms_Auto2.umap'
+[2025.10.29-00.05.35:276][553]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MapRooms' took 0.145
+[2025.10.29-00.05.35:276][553]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.145
+[2025.10.29-00.05.35:276][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_3C4B3DE4] ([1] browsable assets)...
+[2025.10.29-00.05.35:300][553]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_3C4B3DE4.CubeGridToolOutput_3C4B3DE4]
+[2025.10.29-00.05.35:300][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_3C4B3DE4]
+[2025.10.29-00.05.35:314][553]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_3C4B3DE4_Auto2
+[2025.10.29-00.05.35:314][553]LogSavePackage: Moving 'C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Saved/CubeGridToolOutput_3C4B3DE4_Auto7D1F34E44FEBAE3D125E5F8EECB33940.tmp' to 'C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Saved/Autosaves/Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_3C4B3DE4_Auto2.uasset'
+[2025.10.29-00.05.35:316][553]LogFileHelpers: Auto-saving content packages took 0.040
+[2025.10.29-00.06.52:440][785]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4414.307129
+[2025.10.29-00.06.53:442][788]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.29-00.06.53:442][788]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4414.975586, Update Interval: 355.859863
+[2025.10.29-00.10.34:578][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.10.29-00.10.34:582][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-00.10.34:613][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MapRooms" FILE="C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Levels/MapRooms.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.29-00.10.34:698][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.10.29-00.10.34:716][348]LogSavePackage: Moving output files for package: /Game/Levels/MapRooms
+[2025.10.29-00.10.34:716][348]LogSavePackage: Moving 'C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Saved/MapRooms5845DDBE431ABA8B6F613C9E2955A00A.tmp' to 'C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Levels/MapRooms.umap'
+[2025.10.29-00.10.34:739][348]LogFileHelpers: Saving map 'MapRooms' took 0.127
+[2025.10.29-00.10.34:739][348]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_3C4B3DE4] ([1] browsable assets)...
+[2025.10.29-00.10.34:739][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_3C4B3DE4]
+[2025.10.29-00.10.34:751][348]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_3C4B3DE4
+[2025.10.29-00.10.34:751][348]LogSavePackage: Moving 'C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Saved/CubeGridToolOutput_3C4B3DE4BA26451B4354E3B365787183ADDFFEA6.tmp' to 'C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Levels/_GENERATED/Newowner/CubeGridToolOutput_3C4B3DE4.uasset'
+[2025.10.29-00.10.34:763][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 179.984 ms (total: 2:18 min)
+[2025.10.29-00.10.34:801][348]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.29-00.10.34:801][348]LogContentValidation: Enabled validators:
+[2025.10.29-00.10.34:801][348]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-00.10.34:801][348]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-00.10.34:801][348]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-00.10.34:801][348]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-00.10.34:801][348]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-00.10.34:801][348]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-00.10.34:801][348]AssetCheck: /Game/Levels/MapRooms Validating asset
+[2025.10.29-00.10.34:801][348]AssetCheck: /Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_3C4B3DE4 Validating asset
+[2025.10.29-00.10.34:829][348]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.29-00.10.51:711][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.29-00.10.51:784][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-00.10.51:812][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MapRooms" FILE="C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Levels/MapRooms.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.29-00.10.51:872][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.10.29-00.10.51:889][183]LogSavePackage: Moving output files for package: /Game/Levels/MapRooms
+[2025.10.29-00.10.51:889][183]LogSavePackage: Moving 'C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Saved/MapRoomsFBC5612443111ED0948551BCD80E5AB7.tmp' to 'C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Levels/MapRooms.umap'
+[2025.10.29-00.10.51:909][183]LogFileHelpers: Saving map 'MapRooms' took 0.097
+[2025.10.29-00.10.51:918][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.563 ms (total: 2:18 min)
+[2025.10.29-00.10.51:953][183]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.29-00.10.51:953][183]LogContentValidation: Enabled validators:
+[2025.10.29-00.10.51:953][183]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-00.10.51:953][183]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-00.10.51:953][183]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-00.10.51:953][183]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-00.10.51:953][183]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-00.10.51:953][183]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-00.10.51:954][183]AssetCheck: /Game/Levels/MapRooms Validating asset
+[2025.10.29-00.12.39:053][  0]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.29-00.12.39:059][  0]LogInteractiveToolsContext: Warning: Creating new asset.
+[2025.10.29-00.12.50:257][558]Cmd: TRANSACTION UNDO
+[2025.10.29-00.12.50:257][558]LogEditorTransaction: Undo Block Tool Change
+[2025.10.29-00.12.50:612][565]Cmd: TRANSACTION UNDO
+[2025.10.29-00.12.50:612][565]LogEditorTransaction: Undo Block Tool Change
+[2025.10.29-00.13.19:591][993]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4801.455566
+[2025.10.29-00.13.19:900][  3]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.29-00.13.19:900][  3]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4801.726074, Update Interval: 325.080719
+[2025.10.29-00.19.39:490][ 68]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5181.372559
+[2025.10.29-00.19.40:490][ 71]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.29-00.19.40:490][ 71]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5182.039062, Update Interval: 341.615662
+[2025.10.29-00.23.06:979][ 80]Cmd: TRANSACTION UNDO
+[2025.10.29-00.23.06:979][ 80]LogEditorTransaction: Undo Block Tool Change
+[2025.10.29-00.25.51:810][212]Cmd: TRANSACTION UNDO
+[2025.10.29-00.25.51:810][212]LogEditorTransaction: Undo Block Tool Change
+[2025.10.29-00.25.57:119][472]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5558.991211
+[2025.10.29-00.25.57:405][489]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.29-00.25.57:406][489]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5559.260742, Update Interval: 326.558441
+[2025.10.29-00.28.36:277][227]Cmd: TRANSACTION UNDO
+[2025.10.29-00.28.36:277][227]LogEditorTransaction: Undo Block Tool Change
+[2025.10.29-00.28.36:664][234]Cmd: TRANSACTION UNDO
+[2025.10.29-00.28.36:664][234]LogEditorTransaction: Undo Block Tool Change
+[2025.10.29-00.28.36:826][238]Cmd: TRANSACTION UNDO
+[2025.10.29-00.28.36:826][238]LogEditorTransaction: Undo Block Tool Change
+[2025.10.29-00.28.36:980][246]Cmd: TRANSACTION UNDO
+[2025.10.29-00.28.36:980][246]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.10.29-00.28.37:294][264]Cmd: TRANSACTION UNDO
+[2025.10.29-00.28.37:294][264]LogEditorTransaction: Undo Block Tool Change
+[2025.10.29-00.28.37:499][275]Cmd: TRANSACTION UNDO
+[2025.10.29-00.28.37:499][275]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.10.29-00.28.37:904][299]Cmd: TRANSACTION UNDO
+[2025.10.29-00.28.37:904][299]LogEditorTransaction: Undo Block Tool Change
+[2025.10.29-00.28.39:175][364]Cmd: TRANSACTION UNDO
+[2025.10.29-00.28.39:175][364]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.10.29-00.28.39:481][379]Cmd: TRANSACTION UNDO
+[2025.10.29-00.28.39:481][379]LogEditorTransaction: Undo Block Tool Change
+[2025.10.29-00.28.41:767][507]Cmd: TRANSACTION UNDO
+[2025.10.29-00.28.41:767][507]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.10.29-00.28.42:100][513]Cmd: TRANSACTION UNDO
+[2025.10.29-00.28.42:100][513]LogEditorTransaction: Undo Block Tool Change
+[2025.10.29-00.28.42:271][516]Cmd: TRANSACTION UNDO
+[2025.10.29-00.28.42:271][516]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.10.29-00.28.42:521][528]Cmd: TRANSACTION UNDO
+[2025.10.29-00.28.42:522][528]LogEditorTransaction: Undo Block Tool Change
+[2025.10.29-00.28.42:779][542]Cmd: TRANSACTION UNDO
+[2025.10.29-00.28.42:779][542]LogEditorTransaction: Undo Block Tool Change
+[2025.10.29-00.32.08:434][624]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5930.294922
+[2025.10.29-00.32.08:727][638]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.29-00.32.08:727][638]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5930.556152, Update Interval: 345.003204
+[2025.10.29-00.32.49:275][795]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_A2397FC6.CubeGridToolOutput_A2397FC6
+[2025.10.29-00.32.49:276][795]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_A2397FC6 (Required Memory Estimate: 4.465977 MB)...
+[2025.10.29-00.32.49:276][795]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_A2397FC6.CubeGridToolOutput_A2397FC6 as actor: StaticMeshActor /Game/Levels/MapRooms.MapRooms:PersistentLevel.StaticMeshActor_8
+[2025.10.29-00.32.49:290][795]LogStaticMesh: Built static mesh [0.02s] /Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_A2397FC6.CubeGridToolOutput_A2397FC6
+[2025.10.29-00.32.49:293][795]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_A2397FC6) ...
+[2025.10.29-00.32.49:295][795]LogStaticMesh: Warning: CubeGridToolOutput_A2397FC6 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.29-00.32.49:295][795]LogStaticMesh: Warning: CubeGridToolOutput_A2397FC6 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.29-00.32.51:800][795]LogMeshUtilities: Finished distance field build in 2.5s - 126x126x126 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 75% occupied, 0 triangles, CubeGridToolOutput_A2397FC6
+[2025.10.29-00.32.55:046][926]LogMeshUtilities: Finished distance field build in 3.2s - 126x126x126 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 75% occupied, 0 triangles, CubeGridToolOutput_A2397FC6
+[2025.10.29-00.33.08:727][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.10.29-00.33.08:740][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-00.33.08:771][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MapRooms" FILE="C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Levels/MapRooms.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.29-00.33.08:827][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.10.29-00.33.08:844][659]LogSavePackage: Moving output files for package: /Game/Levels/MapRooms
+[2025.10.29-00.33.08:845][659]LogSavePackage: Moving 'C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Saved/MapRooms81DB05E24DCAD47C6248B4BD7D0C10C0.tmp' to 'C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Levels/MapRooms.umap'
+[2025.10.29-00.33.08:864][659]LogFileHelpers: Saving map 'MapRooms' took 0.093
+[2025.10.29-00.33.08:864][659]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_A2397FC6] ([1] browsable assets)...
+[2025.10.29-00.33.08:877][659]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_A2397FC6.CubeGridToolOutput_A2397FC6]
+[2025.10.29-00.33.08:877][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_A2397FC6]
+[2025.10.29-00.33.08:889][659]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_A2397FC6
+[2025.10.29-00.33.08:889][659]LogSavePackage: Moving 'C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Saved/CubeGridToolOutput_A2397FC6FE3E7B694772D63303BA009BBC69C158.tmp' to 'C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Levels/_GENERATED/Newowner/CubeGridToolOutput_A2397FC6.uasset'
+[2025.10.29-00.33.08:900][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 161.087 ms (total: 2:18 min)
+[2025.10.29-00.33.08:934][659]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.29-00.33.08:934][659]LogContentValidation: Enabled validators:
+[2025.10.29-00.33.08:934][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-00.33.08:934][659]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-00.33.08:934][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-00.33.08:934][659]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-00.33.08:934][659]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-00.33.08:934][659]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-00.33.08:934][659]AssetCheck: /Game/Levels/MapRooms Validating asset
+[2025.10.29-00.33.08:934][659]AssetCheck: /Game/Levels/_GENERATED/Newowner/CubeGridToolOutput_A2397FC6 Validating asset
+[2025.10.29-00.33.08:969][659]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Saved/SourceControl/UncontrolledChangelists.json
