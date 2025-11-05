@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Meshes/Assets/Roof.uasset",
+				"C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Materials/M_RoofDungeon.uasset",
+				"C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Levels/TestingZone.umap",
+				"C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Textures/Roof_Material_BaseColor.uasset",
+				"C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Textures/Roof_Material_Normal.uasset",
+				"C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Textures/Roof_Material_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/New owner/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Levels/_SeparatedLevelRooms/CombatRoom_1.umap",
 				"C:/Users/codym/OneDrive/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Levels/TestingZone.umap",
 				"C:/Users/codym/OneDrive/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Actors/Enemies/BP_Enemy.uasset",
 				"C:/Users/codym/OneDrive/Documents/GitHub/FunkyFishGameRepository/FPS_Game/Content/Blueprints/Actors/Enemies/BP_Enemy_Slime.uasset",
